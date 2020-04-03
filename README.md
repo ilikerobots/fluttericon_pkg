@@ -1,6 +1,6 @@
 # Fluttericon 
 
-[![pub package](https://img.shields.io/pub/v/fluttericon.svg)](https://pub.dartlang.org/packages/fluttericon)
+[![pub package](https://img.shields.io/pub/v/fluttericon.svg)](https://pub.dartlang.org/packages/fluttericon_pkg)
 
 Flutter icon packs built from 15 popular free and open-source webfonts. These include all packs available from [FlutterIcon](https://fluttericon.com) (except Material Icons).
 
