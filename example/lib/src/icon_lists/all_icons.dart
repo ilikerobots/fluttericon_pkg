@@ -1,6 +1,5 @@
 
 import '../example_icon.dart';
-import 'package:fluttericon_example/src/example_icon.dart';
 
 // NB: DO NOT EDIT! This file is auto-generated. See util/gen_examples.dart
 
