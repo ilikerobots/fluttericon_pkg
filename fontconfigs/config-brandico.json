@@ -1,0 +1,280 @@
+{
+  "name": "Brandico",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "240979dd9fcf2e46250e66792edb8092",
+      "css": "facebook-1",
+      "code": 62208,
+      "src": "brandico"
+    },
+    {
+      "uid": "8045477f6a7ef0bd7caff130ad25b88d",
+      "css": "facebook-rect",
+      "code": 62209,
+      "src": "brandico"
+    },
+    {
+      "uid": "d611dd319d8c13b4551dc5bd85c1bdfd",
+      "css": "twitter-1",
+      "code": 62210,
+      "src": "brandico"
+    },
+    {
+      "uid": "4c01f5d3ba5fbf029bca8630cce41e6a",
+      "css": "twitter-bird",
+      "code": 62211,
+      "src": "brandico"
+    },
+    {
+      "uid": "70cdf244c51630e09038659d1dcbee87",
+      "css": "vimeo-1",
+      "code": 62223,
+      "src": "brandico"
+    },
+    {
+      "uid": "31483d870b3f14ac12bdfe7331a6af99",
+      "css": "vimeo-rect",
+      "code": 62222,
+      "src": "brandico"
+    },
+    {
+      "uid": "076f25da90f45dd112e006f2cd7ea76b",
+      "css": "tumblr-1",
+      "code": 62225,
+      "src": "brandico"
+    },
+    {
+      "uid": "9e6a3483242474b6a1f77739ae3fdfdc",
+      "css": "tumblr-rect",
+      "code": 62224,
+      "src": "brandico"
+    },
+    {
+      "uid": "626fb97a7c0c0db53a1853fb9e96e223",
+      "css": "googleplus-rect",
+      "code": 62217,
+      "src": "brandico"
+    },
+    {
+      "uid": "24d1008bf15b6c02a5e7a6af026987dd",
+      "css": "github-text",
+      "code": 62215,
+      "src": "brandico"
+    },
+    {
+      "uid": "4a0bb1ac004980bb3837560d4c9e8cee",
+      "css": "github-1",
+      "code": 62216,
+      "src": "brandico"
+    },
+    {
+      "uid": "5a00c877da3f63d37cdc021815e3f5a9",
+      "css": "skype-1",
+      "code": 62219,
+      "src": "brandico"
+    },
+    {
+      "uid": "01f67de2dc0137389f1c3aced6273acd",
+      "css": "icq",
+      "code": 62212,
+      "src": "brandico"
+    },
+    {
+      "uid": "b2417d1ce399577d53fff70d54976fea",
+      "css": "yandex",
+      "code": 62213,
+      "src": "brandico"
+    },
+    {
+      "uid": "ea0cb6bedac64ae7933b03dad3130ef6",
+      "css": "yandex-rect",
+      "code": 62214,
+      "src": "brandico"
+    },
+    {
+      "uid": "5b16ceef1c8638bd5389c9302ea04098",
+      "css": "vkontakte-rect",
+      "code": 62218,
+      "src": "brandico"
+    },
+    {
+      "uid": "229e50061df526f24f1ae884fab52101",
+      "css": "odnoklassniki",
+      "code": 62220,
+      "src": "brandico"
+    },
+    {
+      "uid": "4a02cc611ae9fb342d6026b2ed6cc44e",
+      "css": "odnoklassniki-rect",
+      "code": 62221,
+      "src": "brandico"
+    },
+    {
+      "uid": "eeec90e0e80f11e1aff10800200c9a66",
+      "css": "friendfeed",
+      "code": 62226,
+      "src": "brandico"
+    },
+    {
+      "uid": "41f4dd00e81111e1aff10800200c9a66",
+      "css": "friendfeed-rect",
+      "code": 62227,
+      "src": "brandico"
+    },
+    {
+      "uid": "303f1f30-eda7-11e1-aff1-0800200c9a66",
+      "css": "blogger-1",
+      "code": 62228,
+      "src": "brandico"
+    },
+    {
+      "uid": "a38dfae0ec2d11e1aff10800200c9a66",
+      "css": "blogger-rect",
+      "code": 62229,
+      "src": "brandico"
+    },
+    {
+      "uid": "d04790a0ec2d11e1aff10800200c9a66",
+      "css": "deviantart",
+      "code": 62230,
+      "src": "brandico"
+    },
+    {
+      "uid": "466d1430ec2e11e1aff10800200c9a66",
+      "css": "jabber",
+      "code": 62231,
+      "src": "brandico"
+    },
+    {
+      "uid": "9e237480ec2e11e1aff10800200c9a66",
+      "css": "lastfm-1",
+      "code": 62232,
+      "src": "brandico"
+    },
+    {
+      "uid": "53a3bbcda09740c98a1c3d2e0a6a89fb",
+      "css": "lastfm-rect",
+      "code": 62233,
+      "src": "brandico"
+    },
+    {
+      "uid": "542e3f055aaa4ddfb9ab3e00397db47f",
+      "css": "linkedin-1",
+      "code": 62234,
+      "src": "brandico"
+    },
+    {
+      "uid": "e9e96618b0f44170930f9b179237c76e",
+      "css": "linkedin-rect",
+      "code": 62235,
+      "src": "brandico"
+    },
+    {
+      "uid": "d93230ef6fa54fb9805ba4cc9d9af5b1",
+      "css": "picasa",
+      "code": 62236,
+      "src": "brandico"
+    },
+    {
+      "uid": "1357ba39f8dc4519949cc4da55226b62",
+      "css": "wordpress-1",
+      "code": 62237,
+      "src": "brandico"
+    },
+    {
+      "uid": "dad4e7f8dc2e57c92cffc0231202d9a0",
+      "css": "instagram-1",
+      "code": 62238,
+      "src": "brandico"
+    },
+    {
+      "uid": "cc20f2a7fa05a475130c406740bbbd26",
+      "css": "instagram-filled",
+      "code": 62239,
+      "src": "brandico"
+    },
+    {
+      "uid": "ca1c321a95f268ed0e54e7ba11a8264d",
+      "css": "diigo",
+      "code": 62240,
+      "src": "brandico"
+    },
+    {
+      "uid": "968e63a0a36311e29e960800200c9a66",
+      "css": "box",
+      "code": 62241,
+      "src": "brandico"
+    },
+    {
+      "uid": "d52050c0a36711e29e960800200c9a66",
+      "css": "box-rect",
+      "code": 62242,
+      "src": "brandico"
+    },
+    {
+      "uid": "5d312ed68325656686a91f6da8fa04bd",
+      "css": "tudou",
+      "code": 62243,
+      "src": "brandico"
+    },
+    {
+      "uid": "c874a7b43d3f61059bd6db64fc7d6cb3",
+      "css": "youku",
+      "code": 62244,
+      "src": "brandico"
+    },
+    {
+      "uid": "3f06cdfffd60c5968c601a2e6c8f9a1b",
+      "css": "win8",
+      "code": 62245,
+      "src": "brandico"
+    },
+    {
+      "uid": "ca0f6425e0c44d613febeb0f23fa8ddf",
+      "css": "amex",
+      "code": 62246,
+      "src": "brandico"
+    },
+    {
+      "uid": "bbabc3d5d970358cec0a6d19a396b562",
+      "css": "discover",
+      "code": 62247,
+      "src": "brandico"
+    },
+    {
+      "uid": "cd65196712e52477b9252b4b296b0c44",
+      "css": "visa",
+      "code": 62248,
+      "src": "brandico"
+    },
+    {
+      "uid": "c3043114c56d36658e5cae51d36281c8",
+      "css": "mastercard",
+      "code": 62249,
+      "src": "brandico"
+    },
+    {
+      "uid": "bf819a687a180e0e02ef319600c99d3b",
+      "css": "houzz",
+      "code": 62250,
+      "src": "brandico"
+    },
+    {
+      "uid": "2518846ee21c610004effeae5cb8f9cc",
+      "css": "bandcamp",
+      "code": 62251,
+      "src": "brandico"
+    },
+    {
+      "uid": "155970c9f52b23f31026bab7163caa63",
+      "css": "codepen",
+      "code": 62252,
+      "src": "brandico"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "name": "Maki",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "88a1241bcbe45c8e9616fd34d0f68a55",
+      "css": "aboveground-rail",
+      "code": 59392,
+      "src": "maki"
+    },
+    {
+      "uid": "ee81e35eef77c7d4d26c75258f028bff",
+      "css": "airfield",
+      "code": 59393,
+      "src": "maki"
+    },
+    {
+      "uid": "f7440aaf96d590adceeff59b4dcb32d0",
+      "css": "airport",
+      "code": 59394,
+      "src": "maki"
+    },
+    {
+      "uid": "05417ae0104ab18a0fe454358579a987",
+      "css": "art-gallery",
+      "code": 59395,
+      "src": "maki"
+    },
+    {
+      "uid": "5c8822b310f20896a3c55a25b71008a8",
+      "css": "bar",
+      "code": 59396,
+      "src": "maki"
+    },
+    {
+      "uid": "dc4eb27cd8f0cd537206d00dd85c0286",
+      "css": "baseball",
+      "code": 59398,
+      "src": "maki"
+    },
+    {
+      "uid": "9f5ce0d9f586e3df00449ad6ed6b0bf3",
+      "css": "basketball",
+      "code": 59399,
+      "src": "maki"
+    },
+    {
+      "uid": "77886ff217450e06c8ffb7c88cb41e8b",
+      "css": "beer",
+      "code": 59400,
+      "src": "maki"
+    },
+    {
+      "uid": "3fcff44d055ea3e68ea50aaa7d91947f",
+      "css": "belowground-rail",
+      "code": 59401,
+      "src": "maki"
+    },
+    {
+      "uid": "aab7e7622e6ee1ed8166fb73f20e8c9a",
+      "css": "bicycle",
+      "code": 59402,
+      "src": "maki"
+    },
+    {
+      "uid": "2b39f74a074e338a67270567e95142cb",
+      "css": "bus",
+      "code": 59403,
+      "src": "maki"
+    },
+    {
+      "uid": "492fe0ef4cb41d4e4de8502897685399",
+      "css": "cafe",
+      "code": 59404,
+      "src": "maki"
+    },
+    {
+      "uid": "244d3253e3ca5a0d602dd3574050fe93",
+      "css": "campsite",
+      "code": 59405,
+      "src": "maki"
+    },
+    {
+      "uid": "cc50849b33fcede3d861f5a94a22969f",
+      "css": "cemetery",
+      "code": 59406,
+      "src": "maki"
+    },
+    {
+      "uid": "3fe687c833fa36452029b6d57e9149bf",
+      "css": "cinema",
+      "code": 59407,
+      "src": "maki"
+    },
+    {
+      "uid": "020dbfb0a5a4a25775bc751e5891e161",
+      "css": "college",
+      "code": 59408,
+      "src": "maki"
+    },
+    {
+      "uid": "fc455b9530e0b37facc289f42a120fdd",
+      "css": "commerical-building",
+      "code": 59409,
+      "src": "maki"
+    },
+    {
+      "uid": "5f1e8c36dffb553902e0e5c0c71faf6b",
+      "css": "credit-card",
+      "code": 59410,
+      "src": "maki"
+    },
+    {
+      "uid": "3dfa88388f5e84f8e8fdc4f6320c8b44",
+      "css": "cricket",
+      "code": 59411,
+      "src": "maki"
+    },
+    {
+      "uid": "aec75ed0b4851c282824143392dde047",
+      "css": "embassy",
+      "code": 59412,
+      "src": "maki"
+    },
+    {
+      "uid": "d27bcf5c8638e4078aaadae1d49b6909",
+      "css": "fast-food",
+      "code": 59413,
+      "src": "maki"
+    },
+    {
+      "uid": "6d3728ea0e5678ab9cf6840c4a040e34",
+      "css": "ferry",
+      "code": 59414,
+      "src": "maki"
+    },
+    {
+      "uid": "a9d3392264236bb9fe4d60a130c662d1",
+      "css": "fire-station",
+      "code": 59415,
+      "src": "maki"
+    },
+    {
+      "uid": "429c0a4a7c5aba2f8a894f98b48529b3",
+      "css": "football",
+      "code": 59416,
+      "src": "maki"
+    },
+    {
+      "uid": "63af7ffdab0d3546333634c63554bb82",
+      "css": "fuel",
+      "code": 59417,
+      "src": "maki"
+    },
+    {
+      "uid": "d06b13f30947afbbdae6977413144183",
+      "css": "garden",
+      "code": 59418,
+      "src": "maki"
+    },
+    {
+      "uid": "8815bdcacab2495dd436f029e78a15d7",
+      "css": "giraffe",
+      "code": 59419,
+      "src": "maki"
+    },
+    {
+      "uid": "93f72325e13529f1673ae0c3be4b7d22",
+      "css": "golf",
+      "code": 59420,
+      "src": "maki"
+    },
+    {
+      "uid": "00341f8df1496285c31db5988db1d8b5",
+      "css": "grocery-store",
+      "code": 59422,
+      "src": "maki"
+    },
+    {
+      "uid": "484b90ec34c04b0db020143526d3c21a",
+      "css": "harbor",
+      "code": 59423,
+      "src": "maki"
+    },
+    {
+      "uid": "6dddcfc03d1eaa1bfee628ab291072b6",
+      "css": "heliport",
+      "code": 59424,
+      "src": "maki"
+    },
+    {
+      "uid": "f43389fa3f5a5b152ed0231fe7bb18a7",
+      "css": "hospital",
+      "code": 59425,
+      "src": "maki"
+    },
+    {
+      "uid": "134184de1e4f1dc3d40e0d93bb1ef15e",
+      "css": "industrial-building",
+      "code": 59426,
+      "src": "maki"
+    },
+    {
+      "uid": "56a766cedf13005162899b02cf9546b9",
+      "css": "library",
+      "code": 59427,
+      "src": "maki"
+    },
+    {
+      "uid": "de3978220965d0d1b1cbe671a5a57f9a",
+      "css": "lodging",
+      "code": 59428,
+      "src": "maki"
+    },
+    {
+      "uid": "0b9e9d7b951b0acaac25b9d7ed258120",
+      "css": "london-underground",
+      "code": 59429,
+      "src": "maki"
+    },
+    {
+      "uid": "3e98530afcd866a9d607f8be2b5aa159",
+      "css": "minefield",
+      "code": 59430,
+      "src": "maki"
+    },
+    {
+      "uid": "19d9ceb791d76257545e308954808fc1",
+      "css": "monument",
+      "code": 59431,
+      "src": "maki"
+    },
+    {
+      "uid": "192955900fa17f5677c4fdf2b3f01be7",
+      "css": "museum",
+      "code": 59432,
+      "src": "maki"
+    },
+    {
+      "uid": "ee10c11395b5660a1e10a19cd66ea654",
+      "css": "pharmacy",
+      "code": 59433,
+      "src": "maki"
+    },
+    {
+      "uid": "5040789d726273a910ac5b59e9d8227a",
+      "css": "pitch",
+      "code": 59434,
+      "src": "maki"
+    },
+    {
+      "uid": "2e7c67db76849147d16a6763d07a03a9",
+      "css": "police",
+      "code": 59435,
+      "src": "maki"
+    },
+    {
+      "uid": "3333e460aa2cf5a69989c42c334a4194",
+      "css": "post",
+      "code": 59436,
+      "src": "maki"
+    },
+    {
+      "uid": "0151454c6a8abec62b1b8810aca0af6a",
+      "css": "prison",
+      "code": 59437,
+      "src": "maki"
+    },
+    {
+      "uid": "70276caa975cb1354bc375ca334f6b4b",
+      "css": "rail",
+      "code": 59438,
+      "src": "maki"
+    },
+    {
+      "uid": "7f8b6c0519d85119a6f41fa3c5794806",
+      "css": "religious-christian",
+      "code": 59439,
+      "src": "maki"
+    },
+    {
+      "uid": "2e99947836a643225daf0336e4814bb3",
+      "css": "religious-islam",
+      "code": 59440,
+      "src": "maki"
+    },
+    {
+      "uid": "5604bbb863d0ea7b38dc331705aedb13",
+      "css": "religious-jewish",
+      "code": 59441,
+      "src": "maki"
+    },
+    {
+      "uid": "5cc58545bb38c912940470480d3df145",
+      "css": "restaurant",
+      "code": 59442,
+      "src": "maki"
+    },
+    {
+      "uid": "40664a3e8916bfdcc5fb5655d469723e",
+      "css": "roadblock",
+      "code": 59443,
+      "src": "maki"
+    },
+    {
+      "uid": "653750436fc99eeb29ccd487e6a5bfa6",
+      "css": "school",
+      "code": 59444,
+      "src": "maki"
+    },
+    {
+      "uid": "83a806d41893e8bc6fac601669c76cd2",
+      "css": "shop",
+      "code": 59445,
+      "src": "maki"
+    },
+    {
+      "uid": "ebabd8ff4b67bdbba7660952c30813ca",
+      "css": "skiing",
+      "code": 59446,
+      "src": "maki"
+    },
+    {
+      "uid": "d8813acae9d35ada76fda399a6000587",
+      "css": "soccer",
+      "code": 59447,
+      "src": "maki"
+    },
+    {
+      "uid": "d368c9b110be1daa21f992afca084b8c",
+      "css": "swimming",
+      "code": 59448,
+      "src": "maki"
+    },
+    {
+      "uid": "8a4eb4f98d8e0f3686a741c952b03c08",
+      "css": "tennis",
+      "code": 59449,
+      "src": "maki"
+    },
+    {
+      "uid": "5f89d009e91c94c7c9be2f8711d7a2eb",
+      "css": "theatre",
+      "code": 59450,
+      "src": "maki"
+    },
+    {
+      "uid": "0d0a49f05cb202227853f85ce5f63cdc",
+      "css": "toilet",
+      "code": 59451,
+      "src": "maki"
+    },
+    {
+      "uid": "4c8822c296f8b46e1b0a1c0f627be146",
+      "css": "town-hall",
+      "code": 59452,
+      "src": "maki"
+    },
+    {
+      "uid": "cad619ef78a5500c1e5b3d021d2fdd65",
+      "css": "trash",
+      "code": 59453,
+      "src": "maki"
+    },
+    {
+      "uid": "878dccd7b810bc231a132d86a3028afe",
+      "css": "tree-1",
+      "code": 59454,
+      "src": "maki"
+    },
+    {
+      "uid": "35b65a48339004a947a1dea3092e1daa",
+      "css": "tree-2",
+      "code": 59455,
+      "src": "maki"
+    },
+    {
+      "uid": "bc6ef9c6531c54e927e9dc18e45524b2",
+      "css": "warehouse",
+      "code": 59456,
+      "src": "maki"
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "name": "Zocial",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "446acc3b40ca5654627ffb8bc6b906e7",
+      "css": "duckduckgo",
+      "code": 59392,
+      "src": "zocial"
+    },
+    {
+      "uid": "86009860c8331a1d90ae269432d6e24f",
+      "css": "aim",
+      "code": 59393,
+      "src": "zocial"
+    },
+    {
+      "uid": "1e2035b7cbaeb3d902cf9849e456069d",
+      "css": "delicious",
+      "code": 59394,
+      "src": "zocial"
+    },
+    {
+      "uid": "f5281239de27061e68f4367ba3efee15",
+      "css": "paypal",
+      "code": 59395,
+      "src": "zocial"
+    },
+    {
+      "uid": "c71d7db10ede1349b3a8ae0293b1dbf8",
+      "css": "flattr",
+      "code": 59396,
+      "src": "zocial"
+    },
+    {
+      "uid": "aaf371ab44841e9aaffebd179d324ce4",
+      "css": "android",
+      "code": 59397,
+      "src": "zocial"
+    },
+    {
+      "uid": "ca8881bd09267577150cc4637dc65572",
+      "css": "eventful",
+      "code": 59398,
+      "src": "zocial"
+    },
+    {
+      "uid": "5556b88a0dc630940f326ab2ffbe7ccc",
+      "css": "smashmag",
+      "code": 59399,
+      "src": "zocial"
+    },
+    {
+      "uid": "e566d3f1d24f22981f6552d5188e7265",
+      "css": "gplus",
+      "code": 59400,
+      "src": "zocial"
+    },
+    {
+      "uid": "64c2f859fa518d38db7ec7532855ae34",
+      "css": "wikipedia",
+      "code": 59401,
+      "src": "zocial"
+    },
+    {
+      "uid": "846fae80e47217662041242ee1f15a83",
+      "css": "lanyrd",
+      "code": 59402,
+      "src": "zocial"
+    },
+    {
+      "uid": "fe4b70ed76eb9a48877632032b33c942",
+      "css": "calendar",
+      "code": 59403,
+      "src": "zocial"
+    },
+    {
+      "uid": "76a8a77019900916d16bad3eb4ee432c",
+      "css": "stumbleupon",
+      "code": 59404,
+      "src": "zocial"
+    },
+    {
+      "uid": "d089814548af1441aa00ecec47851f38",
+      "css": "fivehundredpx",
+      "code": 59405,
+      "src": "zocial"
+    },
+    {
+      "uid": "799d6108751f684ac9d018983251a08f",
+      "css": "pinterest",
+      "code": 59406,
+      "src": "zocial"
+    },
+    {
+      "uid": "523e56b66e166a5bb7b823844bdf56e6",
+      "css": "bitcoin",
+      "code": 59407,
+      "src": "zocial"
+    },
+    {
+      "uid": "288a62ca532f76053c4a834ba3746ea2",
+      "css": "w3c",
+      "code": 59408,
+      "src": "zocial"
+    },
+    {
+      "uid": "ffecc77dcd9b9dff653ff88b508220d4",
+      "css": "foursquare",
+      "code": 59409,
+      "src": "zocial"
+    },
+    {
+      "uid": "d4d52a448819e8d5e849b8126416b640",
+      "css": "html5",
+      "code": 59410,
+      "src": "zocial"
+    },
+    {
+      "uid": "63208f7386b9384ba1291832de6ceee7",
+      "css": "ie",
+      "code": 59411,
+      "src": "zocial"
+    },
+    {
+      "uid": "eb2d71e114d99d85b2ae28ab70d981a6",
+      "css": "call",
+      "code": 59412,
+      "src": "zocial"
+    },
+    {
+      "uid": "c9829449672245d22b3d43d7d1a7cc90",
+      "css": "grooveshark",
+      "code": 59413,
+      "src": "zocial"
+    },
+    {
+      "uid": "0aeb6f0ea0d091185f5c775401708aa1",
+      "css": "ninetyninedesigns",
+      "code": 59414,
+      "src": "zocial"
+    },
+    {
+      "uid": "2f6ed771cf99f6826343c31ed0b08026",
+      "css": "forrst",
+      "code": 59415,
+      "src": "zocial"
+    },
+    {
+      "uid": "8625d6e45fba1219638069e21eedbce8",
+      "css": "digg",
+      "code": 59416,
+      "src": "zocial"
+    },
+    {
+      "uid": "e4b799ca3860a8276dba05b11d7e13db",
+      "css": "spotify",
+      "code": 59417,
+      "src": "zocial"
+    },
+    {
+      "uid": "b3a537446285bb3510bba57d20374818",
+      "css": "reddit",
+      "code": 59418,
+      "src": "zocial"
+    },
+    {
+      "uid": "e2a0b3edf53a477f66d077cb907e2ab5",
+      "css": "guest",
+      "code": 59419,
+      "src": "zocial"
+    },
+    {
+      "uid": "56a3e7f58bbb15252d06a4735e8299dc",
+      "css": "gowalla",
+      "code": 59420,
+      "src": "zocial"
+    },
+    {
+      "uid": "1dbc2b4a7f00ef209a85e4b5d9fedec4",
+      "css": "appstore",
+      "code": 59421,
+      "src": "zocial"
+    },
+    {
+      "uid": "2dd7e3046b63beb19616dce63c5782a6",
+      "css": "blogger",
+      "code": 59422,
+      "src": "zocial"
+    },
+    {
+      "uid": "959c9a2360ed00ec9c0a75562d30edc4",
+      "css": "cc",
+      "code": 59423,
+      "src": "zocial"
+    },
+    {
+      "uid": "003ba8187d6b00ec3e1ba75d00f1246a",
+      "css": "dribbble",
+      "code": 59424,
+      "src": "zocial"
+    },
+    {
+      "uid": "366510ecfb08cd0110134b1ea907fb81",
+      "css": "evernote",
+      "code": 59425,
+      "src": "zocial"
+    },
+    {
+      "uid": "231eeeedfdda9dd5d03dc8d03060007d",
+      "css": "flickr",
+      "code": 59426,
+      "src": "zocial"
+    },
+    {
+      "uid": "6d6d0efe9717ec2962ef0a77c6210df9",
+      "css": "google",
+      "code": 59427,
+      "src": "zocial"
+    },
+    {
+      "uid": "cf31b05e6409526bbea832ca960777ed",
+      "css": "viadeo",
+      "code": 59428,
+      "src": "zocial"
+    },
+    {
+      "uid": "5cf33e5f0b89834df4fb10609aec90d6",
+      "css": "instapaper",
+      "code": 59429,
+      "src": "zocial"
+    },
+    {
+      "uid": "3a171c02a5096c63c7c0e2e84d5eeb5a",
+      "css": "weibo",
+      "code": 59430,
+      "src": "zocial"
+    },
+    {
+      "uid": "f35cf173c6dd32fa6a83208aeb26b527",
+      "css": "klout",
+      "code": 59431,
+      "src": "zocial"
+    },
+    {
+      "uid": "cc4e62d1721c863fdc6944d2fd87521d",
+      "css": "linkedin",
+      "code": 59432,
+      "src": "zocial"
+    },
+    {
+      "uid": "3da502d7bf60ce54298aafe7b6dca55f",
+      "css": "meetup",
+      "code": 59433,
+      "src": "zocial"
+    },
+    {
+      "uid": "12db1f260b5b2ccd1aa4d8942cc7f6dd",
+      "css": "vk",
+      "code": 59434,
+      "src": "zocial"
+    },
+    {
+      "uid": "6cc1c059e221d7a0bf109870cc48f1a5",
+      "css": "plancast",
+      "code": 59435,
+      "src": "zocial"
+    },
+    {
+      "uid": "9b345d273b96183674779e05d64274af",
+      "css": "disqus",
+      "code": 59436,
+      "src": "zocial"
+    },
+    {
+      "uid": "2a3192d0f8fe0c7cf959168e68eb16d8",
+      "css": "rss",
+      "code": 59437,
+      "src": "zocial"
+    },
+    {
+      "uid": "1884ff7f89cc02840606d28f9bcf930a",
+      "css": "skype",
+      "code": 59438,
+      "src": "zocial"
+    },
+    {
+      "uid": "b1ec8e90c2c85cf0035849980a3789b3",
+      "css": "twitter",
+      "code": 59439,
+      "src": "zocial"
+    },
+    {
+      "uid": "57a4f84c40a0c44d47387105f162a427",
+      "css": "youtube",
+      "code": 59440,
+      "src": "zocial"
+    },
+    {
+      "uid": "e47352cd4c5e069288b29a2c9ab9d305",
+      "css": "vimeo",
+      "code": 59441,
+      "src": "zocial"
+    },
+    {
+      "uid": "01dcfef491cd3603565e4a68d1805332",
+      "css": "windows",
+      "code": 59442,
+      "src": "zocial"
+    },
+    {
+      "uid": "d2f0cf090ba9e1a4ecbf8275018a0d61",
+      "css": "xing",
+      "code": 59443,
+      "src": "zocial"
+    },
+    {
+      "uid": "aa86b5f7dd6d1087f35cbed951970cd1",
+      "css": "yahoo",
+      "code": 59444,
+      "src": "zocial"
+    },
+    {
+      "uid": "261a9fed5c3e5883ecc99e354d78a94b",
+      "css": "chrome",
+      "code": 59445,
+      "src": "zocial"
+    },
+    {
+      "uid": "a58032f4aafd0eec54803075f5b320d4",
+      "css": "email",
+      "code": 59446,
+      "src": "zocial"
+    },
+    {
+      "uid": "94b684c4b484712a2506911b68446ad9",
+      "css": "macstore",
+      "code": 59447,
+      "src": "zocial"
+    },
+    {
+      "uid": "916eba314d66dee45c9859d2fd146d36",
+      "css": "myspace",
+      "code": 59448,
+      "src": "zocial"
+    },
+    {
+      "uid": "5287c0dd80c29636f3d45b8b52cd3021",
+      "css": "podcast",
+      "code": 59449,
+      "src": "zocial"
+    },
+    {
+      "uid": "2f85c90013c0af641d18b167ec93d165",
+      "css": "amazon",
+      "code": 59450,
+      "src": "zocial"
+    },
+    {
+      "uid": "785a9b232e86ae750516adc5228a5aa7",
+      "css": "steam",
+      "code": 59451,
+      "src": "zocial"
+    },
+    {
+      "uid": "6c304f746d790c6749f345ac384cbd7c",
+      "css": "cloudapp",
+      "code": 59452,
+      "src": "zocial"
+    },
+    {
+      "uid": "d0ce443b8d7376716584f5f660a6bf72",
+      "css": "dropbox",
+      "code": 59453,
+      "src": "zocial"
+    },
+    {
+      "uid": "eae6db03eb0c9f2673a126967bf4d4ed",
+      "css": "ebay",
+      "code": 59454,
+      "src": "zocial"
+    },
+    {
+      "uid": "6f7586c6f99798c3c1de6123d1f6cfa9",
+      "css": "facebook",
+      "code": 59455,
+      "src": "zocial"
+    },
+    {
+      "uid": "9bba5df43e4e9419975336161e1810c3",
+      "css": "github",
+      "code": 59456,
+      "src": "zocial"
+    },
+    {
+      "uid": "ff16079eb4be12c49bf3014d2322acdd",
+      "css": "github-circled",
+      "code": 59457,
+      "src": "zocial"
+    },
+    {
+      "uid": "909f99f11c6b6551bf757b6e809f98f3",
+      "css": "googleplay",
+      "code": 59458,
+      "src": "zocial"
+    },
+    {
+      "uid": "d6096cb47cc4448ac68b6a2e2c52a81d",
+      "css": "itunes",
+      "code": 59459,
+      "src": "zocial"
+    },
+    {
+      "uid": "bc3411a07338a7ae2dc49b9720f792c5",
+      "css": "plurk",
+      "code": 59460,
+      "src": "zocial"
+    },
+    {
+      "uid": "df750854b73c819540447f621729fb3a",
+      "css": "songkick",
+      "code": 59461,
+      "src": "zocial"
+    },
+    {
+      "uid": "f3d8d921ab15972d3a29da321c5c0558",
+      "css": "lastfm",
+      "code": 59462,
+      "src": "zocial"
+    },
+    {
+      "uid": "b49fa3e57e92b38143e0fdcc5d9a904b",
+      "css": "gmail",
+      "code": 59463,
+      "src": "zocial"
+    },
+    {
+      "uid": "c91522256a4c3972e9a2765b995b7252",
+      "css": "pinboard",
+      "code": 59464,
+      "src": "zocial"
+    },
+    {
+      "uid": "1cf32a32df11230cd182b593752304b4",
+      "css": "openid",
+      "code": 59465,
+      "src": "zocial"
+    },
+    {
+      "uid": "6a85bc0b09a4f21d2a3ced2bdffbc770",
+      "css": "quora",
+      "code": 59466,
+      "src": "zocial"
+    },
+    {
+      "uid": "1e123339045e48ddd01031936b9fc2d9",
+      "css": "soundcloud",
+      "code": 59467,
+      "src": "zocial"
+    },
+    {
+      "uid": "90d3360c550556afb7e5d3ea58a34e43",
+      "css": "tumblr",
+      "code": 59468,
+      "src": "zocial"
+    },
+    {
+      "uid": "60750bcb027f99557abe2fab47f19f2e",
+      "css": "eventasaurus",
+      "code": 59469,
+      "src": "zocial"
+    },
+    {
+      "uid": "0636c283a9822288a767609062bbf4a4",
+      "css": "wordpress",
+      "code": 59470,
+      "src": "zocial"
+    },
+    {
+      "uid": "5d8165146a6d5f2784982aa955f963ce",
+      "css": "yelp",
+      "code": 59471,
+      "src": "zocial"
+    },
+    {
+      "uid": "67a821c2e9dbc2e439142b4aa04a9c4e",
+      "css": "intensedebate",
+      "code": 59472,
+      "src": "zocial"
+    },
+    {
+      "uid": "d99bb6de425328eea70522711d17596d",
+      "css": "eventbrite",
+      "code": 59473,
+      "src": "zocial"
+    },
+    {
+      "uid": "d549e369e55576b49f999436b9f13f44",
+      "css": "scribd",
+      "code": 59474,
+      "src": "zocial"
+    },
+    {
+      "uid": "0ec44644bdb6b89bbedb8929bb343a61",
+      "css": "posterous",
+      "code": 59475,
+      "src": "zocial"
+    },
+    {
+      "uid": "3e10dfa19399b45e9dbb9134c849334f",
+      "css": "stripe",
+      "code": 59476,
+      "src": "zocial"
+    },
+    {
+      "uid": "7ac996dea1fe6954e68548f0d73cd2b1",
+      "css": "opentable",
+      "code": 59477,
+      "src": "zocial"
+    },
+    {
+      "uid": "c1f0120c5cb9af80a2f56d7d7fb2f489",
+      "css": "cart",
+      "code": 59478,
+      "src": "zocial"
+    },
+    {
+      "uid": "6dd44b2efdc8c7bb99cbc75ed13b4c1e",
+      "css": "print",
+      "code": 59479,
+      "src": "zocial"
+    },
+    {
+      "uid": "bdaca8aa91638109e25d72f1dcbb58c1",
+      "css": "angellist",
+      "code": 59480,
+      "src": "zocial"
+    },
+    {
+      "uid": "6275b63473065457219b9e12024f95f2",
+      "css": "instagram",
+      "code": 59481,
+      "src": "zocial"
+    },
+    {
+      "uid": "f39ab571fe73e796e24bb8edc1f9d875",
+      "css": "dwolla",
+      "code": 59482,
+      "src": "zocial"
+    },
+    {
+      "uid": "40ff77423c882ef32d11b5aec4ab17cf",
+      "css": "appnet",
+      "code": 59483,
+      "src": "zocial"
+    },
+    {
+      "uid": "21a454e018faae9de83d19c65e7448d9",
+      "css": "statusnet",
+      "code": 59484,
+      "src": "zocial"
+    },
+    {
+      "uid": "fd1c420f4755e275d578d856d7b20c50",
+      "css": "acrobat",
+      "code": 59485,
+      "src": "zocial"
+    },
+    {
+      "uid": "9794e9b767f192e0d499dfc98d52e802",
+      "css": "drupal",
+      "code": 59486,
+      "src": "zocial"
+    },
+    {
+      "uid": "58b5f27abdf85c2b2b8db2770d61162d",
+      "css": "buffer",
+      "code": 59487,
+      "src": "zocial"
+    },
+    {
+      "uid": "a7632b6db17256019e34ec72fb236be0",
+      "css": "pocket",
+      "code": 59488,
+      "src": "zocial"
+    },
+    {
+      "uid": "5b1387fb48babf0748ea04107c9adac3",
+      "css": "bitbucket",
+      "code": 59489,
+      "src": "zocial"
+    },
+    {
+      "uid": "15a2a7646f0f7c0f129bee0f790d12fc",
+      "css": "lego",
+      "code": 59490,
+      "src": "zocial"
+    },
+    {
+      "uid": "1dabc07fb86333ee947c283f74ab5fc8",
+      "css": "login",
+      "code": 59491,
+      "src": "zocial"
+    },
+    {
+      "uid": "e7d17d4d07756f4ab5eb690eea1275ca",
+      "css": "stackoverflow",
+      "code": 59492,
+      "src": "zocial"
+    },
+    {
+      "uid": "054a8f79ee2dae6c1ba909cc0c6f0cf9",
+      "css": "hackernews",
+      "code": 59493,
+      "src": "zocial"
+    },
+    {
+      "uid": "2634442580bb3c5c7d87f30bed0227a8",
+      "css": "lkdto",
+      "code": 59494,
+      "src": "zocial"
+    }
+  ]
+}

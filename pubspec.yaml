@@ -1,0 +1,67 @@
+name: fluttericon
+description: Flutter Icons from popular web icon fonts
+version: 1.0.0
+homepage: https://github.com/ilikerobots/fluttericon_pkg
+author: Mike Hoolehan <mike@starheightmedia.com>
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: Brandico
+      fonts:
+        - asset: lib/fonts/Brandico.ttf
+    - family: Elusive
+      fonts:
+        - asset: lib/fonts/Elusive.ttf
+    - family: Entypo
+      fonts:
+        - asset: lib/fonts/Entypo.ttf
+    - family: FontAwesome
+      fonts:
+        - asset: lib/fonts/FontAwesome.ttf
+    - family: Fontelico
+      fonts:
+        - asset: lib/fonts/Fontelico.ttf
+    - family: Iconic
+      fonts:
+        - asset: lib/fonts/Iconic.ttf
+    - family: LineariconsFree
+      fonts:
+        - asset: lib/fonts/LineariconsFree.ttf
+    - family: Linecons
+      fonts:
+        - asset: lib/fonts/Linecons.ttf
+    - family: Maki
+      fonts:
+        - asset: lib/fonts/Maki.ttf
+#    - family: Material
+#      fonts:
+#        - asset: lib/fonts/Material.ttf
+    - family: Meteocons
+      fonts:
+        - asset: lib/fonts/Meteocons.ttf
+    - family: MfgLabs
+      fonts:
+        - asset: lib/fonts/MfgLabs.ttf
+    - family: ModernPictograms
+      fonts:
+        - asset: lib/fonts/ModernPictograms.ttf
+    - family: Typicons
+      fonts:
+        - asset: lib/fonts/Typicons.ttf
+    - family: WebSymbols
+      fonts:
+        - asset: lib/fonts/WebSymbols.ttf
+    - family: Zocial
+      fonts:
+        - asset: lib/fonts/Zocial.ttf
+
+dev_dependencies:
+  test: ^1.0.0
+  recase: 2.0.1
