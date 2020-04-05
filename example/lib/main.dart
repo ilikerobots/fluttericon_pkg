@@ -3,6 +3,8 @@
 */
 
 import 'package:flutter/material.dart';
+import 'package:fluttericon/typicons_icons.dart';
+
 
 import 'package:fluttericon_example/src/icon_lists/all_icons.dart';
 
@@ -106,7 +108,7 @@ class FontAwesomeGalleryHomeState extends State<FontAwesomeGalleryHome> {
       title: Text("Fluttericon Gallery"),
       actions: [
         IconButton(
-            icon: Icon(Icons.search),
+            icon: Icon(Typicons.search),
             onPressed: () {
               ModalRoute.of(context).addLocalHistoryEntry(
                 LocalHistoryEntry(
@@ -130,7 +132,7 @@ class FontAwesomeGalleryHomeState extends State<FontAwesomeGalleryHome> {
   AppBar _searchBar(BuildContext context) {
     return AppBar(
       leading: IconButton(
-        icon: Icon(Icons.arrow_left),
+        icon: Icon(Typicons.left_open),
         onPressed: () {
           setState(
             () {

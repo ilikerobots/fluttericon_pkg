@@ -1,6 +1,6 @@
 # Fluttericon 
 
-[![pub package](https://img.shields.io/pub/v/fluttericon.svg)](https://pub.dartlang.org/packages/fluttericon_pkg)
+[![pub package](https://img.shields.io/pub/v/fluttericon.svg)](https://pub.dartlang.org/packages/fluttericon)
 
 Flutter icon packs built from 15 popular free and open-source webfonts. These include all packs available from [FlutterIcon](https://fluttericon.com) (except Material Icons).
 
@@ -34,14 +34,15 @@ Please review and respect the copyright information contained in the header file
 Simply import the desired icon set and use the IconData as normal.
 
 ```dart
-import 'package:fluttericon/fontelico_icons.dart';
 import 'package:fluttericon/typicons_icons.dart';
+import 'package:fluttericon/fontelico_icons.dart';
+import 'package:fluttericon/linecons_icons.dart';
 
-...
-    children: <Widget>[
-               Icon(Fontelico.chrome),
-               Icon(Typicons.sun),
-    ]
+final myIcons = const <Widget>[
+    const Icon(Typicons.attention),
+    const Icon(Fontelico.emo_wink),
+    const Icon(Linecons.globe),
+];
 ```
 
 ## FlutterIcon

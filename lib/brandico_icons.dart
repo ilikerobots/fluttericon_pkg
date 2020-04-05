@@ -25,49 +25,94 @@ class Brandico {
   static const _kFontFam = 'Brandico';
   static const _kFontPkg = "fluttericon";
 
-  static const IconData facebook_1 = const IconData(0xf300, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData facebook_rect = const IconData(0xf301, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData twitter_1 = const IconData(0xf302, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData twitter_bird = const IconData(0xf303, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData icq = const IconData(0xf304, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData yandex = const IconData(0xf305, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData yandex_rect = const IconData(0xf306, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData github_text = const IconData(0xf307, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData github_1 = const IconData(0xf308, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData googleplus_rect = const IconData(0xf309, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData vkontakte_rect = const IconData(0xf30a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData skype_1 = const IconData(0xf30b, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData odnoklassniki = const IconData(0xf30c, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData odnoklassniki_rect = const IconData(0xf30d, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData vimeo_rect = const IconData(0xf30e, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData vimeo_1 = const IconData(0xf30f, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData tumblr_rect = const IconData(0xf310, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData tumblr_1 = const IconData(0xf311, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData friendfeed = const IconData(0xf312, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData friendfeed_rect = const IconData(0xf313, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData blogger_1 = const IconData(0xf314, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData blogger_rect = const IconData(0xf315, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData deviantart = const IconData(0xf316, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData jabber = const IconData(0xf317, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData lastfm_1 = const IconData(0xf318, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData lastfm_rect = const IconData(0xf319, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData linkedin_1 = const IconData(0xf31a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData linkedin_rect = const IconData(0xf31b, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData picasa = const IconData(0xf31c, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData wordpress_1 = const IconData(0xf31d, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData instagram_1 = const IconData(0xf31e, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData instagram_filled = const IconData(0xf31f, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData diigo = const IconData(0xf320, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData box = const IconData(0xf321, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData box_rect = const IconData(0xf322, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData tudou = const IconData(0xf323, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData youku = const IconData(0xf324, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData win8 = const IconData(0xf325, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData amex = const IconData(0xf326, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData discover = const IconData(0xf327, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData visa = const IconData(0xf328, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData mastercard = const IconData(0xf329, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData houzz = const IconData(0xf32a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData bandcamp = const IconData(0xf32b, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData codepen = const IconData(0xf32c, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData facebook_1 =
+      const IconData(0xf300, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData facebook_rect =
+      const IconData(0xf301, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData twitter_1 =
+      const IconData(0xf302, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData twitter_bird =
+      const IconData(0xf303, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData icq =
+      const IconData(0xf304, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData yandex =
+      const IconData(0xf305, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData yandex_rect =
+      const IconData(0xf306, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData github_text =
+      const IconData(0xf307, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData github_1 =
+      const IconData(0xf308, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData googleplus_rect =
+      const IconData(0xf309, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData vkontakte_rect =
+      const IconData(0xf30a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData skype_1 =
+      const IconData(0xf30b, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData odnoklassniki =
+      const IconData(0xf30c, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData odnoklassniki_rect =
+      const IconData(0xf30d, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData vimeo_rect =
+      const IconData(0xf30e, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData vimeo_1 =
+      const IconData(0xf30f, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData tumblr_rect =
+      const IconData(0xf310, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData tumblr_1 =
+      const IconData(0xf311, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData friendfeed =
+      const IconData(0xf312, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData friendfeed_rect =
+      const IconData(0xf313, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData blogger_1 =
+      const IconData(0xf314, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData blogger_rect =
+      const IconData(0xf315, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData deviantart =
+      const IconData(0xf316, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData jabber =
+      const IconData(0xf317, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData lastfm_1 =
+      const IconData(0xf318, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData lastfm_rect =
+      const IconData(0xf319, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData linkedin_1 =
+      const IconData(0xf31a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData linkedin_rect =
+      const IconData(0xf31b, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData picasa =
+      const IconData(0xf31c, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData wordpress_1 =
+      const IconData(0xf31d, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData instagram_1 =
+      const IconData(0xf31e, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData instagram_filled =
+      const IconData(0xf31f, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData diigo =
+      const IconData(0xf320, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData box =
+      const IconData(0xf321, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData box_rect =
+      const IconData(0xf322, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData tudou =
+      const IconData(0xf323, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData youku =
+      const IconData(0xf324, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData win8 =
+      const IconData(0xf325, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData amex =
+      const IconData(0xf326, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData discover =
+      const IconData(0xf327, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData visa =
+      const IconData(0xf328, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData mastercard =
+      const IconData(0xf329, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData houzz =
+      const IconData(0xf32a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData bandcamp =
+      const IconData(0xf32b, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData codepen =
+      const IconData(0xf32c, fontFamily: _kFontFam, fontPackage: _kFontPkg);
 }
