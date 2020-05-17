@@ -1,0 +1,2980 @@
+{
+  "name": "RpgAwesome",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "af3a798569fd475feaad426059020803",
+      "css": "aura",
+      "code": 59668,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ba5531a3907d3ae934e1399045def1dc",
+      "css": "aware",
+      "code": 59669,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a58b3fca1430c548133cdb4d7ef53974",
+      "css": "double_team",
+      "code": 59806,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2a11eeea5af123178d8e6b09a8af4909",
+      "css": "falling",
+      "code": 59833,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "323de09ce358db0932cfc1bfc17198aa",
+      "css": "monster_skull",
+      "code": 59971,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e1560b7b5aa5a794cc6635e4ff96dee4",
+      "css": "muscle_fat",
+      "code": 59975,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "575f5418ee53db3a04b54dfbe5213422",
+      "css": "muscle_up",
+      "code": 59976,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4cc14d03787e77b63029e066bced121a",
+      "css": "player",
+      "code": 60015,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e2a5c8feda425ae795e9f4ac825ef118",
+      "css": "player_despair",
+      "code": 60006,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8b7d8693c2dedfaeb8fc127f31144aaf",
+      "css": "player_dodge",
+      "code": 60007,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f95351f0dc22d38da667731cd220e519",
+      "css": "player_king",
+      "code": 60008,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f0f8c298c200050d900c014108969bc6",
+      "css": "player_lift",
+      "code": 60009,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "dd7604372d19534148010d28b00d2a12",
+      "css": "player_pain",
+      "code": 60010,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "53f371ae91b0749d31c2f7bd013a4b4c",
+      "css": "player_pyromaniac",
+      "code": 60011,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e924d6eeced76535ae7d1842de52883a",
+      "css": "player_shot",
+      "code": 60012,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "be6f85aa14ffc2dfb18c6fc98c004154",
+      "css": "player_teleport",
+      "code": 60013,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1387e0ee3a7ea0d2a484ce5ef0ea2d2f",
+      "css": "player_thunder_struck",
+      "code": 60014,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "602f7aef5c0c00c861a70a6232b92da0",
+      "css": "bottle_vapors",
+      "code": 59709,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0bfa99b1dce07c9b8feb300b64e07c82",
+      "css": "bottled_bolt",
+      "code": 59710,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ca71276a801627cd27fa224e88313458",
+      "css": "broken_bottle",
+      "code": 59720,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d36519263b5a61cae27c7e1bda35dd35",
+      "css": "bubbling_potion",
+      "code": 59724,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fc9f513311366d10dfad53359e08a302",
+      "css": "corked_tube",
+      "code": 59763,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "98d60a79d51f10dfa19a8ef113f5a774",
+      "css": "fizzing_flask",
+      "code": 59846,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f16bb78fea6242c74fe27ac81751f55f",
+      "css": "flask",
+      "code": 59851,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "cbcba3351f1c6adebe8c70a5da0f76ad",
+      "css": "heart_bottle",
+      "code": 59894,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "87cf37bd0354087302c0358d26d60d77",
+      "css": "round_bottom_flask",
+      "code": 60038,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "24873873db18356983fdca3506488e40",
+      "css": "vase",
+      "code": 60126,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "83144bbd75010bc8e25422836c78ad77",
+      "css": "vial",
+      "code": 60129,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a6515f6b740de672497cd911bb862982",
+      "css": "alligator_clip",
+      "code": 59652,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "cbbea93ff03387c2dc887a8136768da0",
+      "css": "ammo_bag",
+      "code": 59653,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "bea245bbe3ade0944aaa69e9a0255557",
+      "css": "ball",
+      "code": 59672,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3ffde0be38a27af3601318db732ecd29",
+      "css": "book",
+      "code": 59706,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3c8a2a1ddc980ff3e4ae5880701aac03",
+      "css": "candle",
+      "code": 59736,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6f8b467b1ce2e2ca7a6e7b7de59ab94e",
+      "css": "castle_flag",
+      "code": 59742,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "26eb1dcf6569cec4e0c036afb8a3b19a",
+      "css": "compass",
+      "code": 59762,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "dab78a5265e24a3e00d0ce063a0b3735",
+      "css": "crown_of_thorns",
+      "code": 59774,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1b16b101f385f8c1c265fadd23f1a7ea",
+      "css": "crown",
+      "code": 59775,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9a8a788a5d1d13914493ff70282424fe",
+      "css": "horseshoe",
+      "code": 59910,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "01b5e15f5416eedae5ecab8cca354101",
+      "css": "hourglass",
+      "code": 59913,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "716fcd0fdc820536b840d86c417e3ed6",
+      "css": "jigsaw_piece",
+      "code": 59922,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e8a23ea83a43553b7862d8d4b46e2e85",
+      "css": "kettlebell",
+      "code": 59924,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "785cd72ce7dbfa40a455ffec37cfe2cb",
+      "css": "key_basic",
+      "code": 59925,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "76e071bd9e229189e4b842b33aebdc41",
+      "css": "key",
+      "code": 59926,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2d6d7b1bd6936c20810f0a0039e02a6b",
+      "css": "lantern_flame",
+      "code": 59932,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d30a3b28fbb8a85d5f16a9ed57e775af",
+      "css": "lit_candelabra",
+      "code": 59955,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "548ef260f414db443d03b7fd21c6993d",
+      "css": "match",
+      "code": 59962,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f7c0a2dada81558482028bb5bbf57e75",
+      "css": "medical_pack",
+      "code": 59965,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f09fc16880d177e1735ba4edec9e3ec1",
+      "css": "mirror",
+      "code": 59970,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d96ea352a3a716408bc4524a629d1282",
+      "css": "moon_sun",
+      "code": 59973,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7410dd16418e3a0713700e8d5e638b8b",
+      "css": "nails",
+      "code": 59978,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d5e61e4f2969a3e2b8af419657f754ea",
+      "css": "noose",
+      "code": 59980,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "bb3fad24e8d07fed281318073f9233b1",
+      "css": "ocarina",
+      "code": 59982,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "07984137162cff7fef21e87551efa60c",
+      "css": "pawn",
+      "code": 59991,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "72e73dd451e3f34a1c35f0a115df5ad1",
+      "css": "pill",
+      "code": 60000,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "068e41b04132708004e8449c7bde3c26",
+      "css": "pills",
+      "code": 60001,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e594286bb40eab3737eff4fde101b79c",
+      "css": "ping_pong",
+      "code": 60003,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "67ce48471af4255fcd00ff9cc958a692",
+      "css": "potion",
+      "code": 60018,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "cb75bb1ad5d14ef48f14821565aea50f",
+      "css": "quill_ink",
+      "code": 60021,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "102838e5ec3a24c4ff04d1022588a85f",
+      "css": "ringing_bell",
+      "code": 60035,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "92cd278f846d734e1b259b6df4e526c2",
+      "css": "rune_stone",
+      "code": 60041,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b4168070085c51c2146a03f9ee036f32",
+      "css": "sheriff",
+      "code": 60053,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "69ddc09d141268749cfb503386be6d3c",
+      "css": "ship_emblem",
+      "code": 60055,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ea15f6eebc798393d5339bc621f43678",
+      "css": "shotgun_shell",
+      "code": 60058,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8c33d60ad0fbc2e5307f30f52323a1b7",
+      "css": "slash_ring",
+      "code": 60066,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "934f1fc61a5ebe4f5e48be61219a423c",
+      "css": "snorkel",
+      "code": 60070,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8207ac14a2dd7b64df49cbe7961f5ffd",
+      "css": "soccer_ball",
+      "code": 60072,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4e627cc8201704dcfc8ac9502b63df49",
+      "css": "spray_can",
+      "code": 60086,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8fd58d4a5faf953b6069ba222e41021e",
+      "css": "stopwatch",
+      "code": 60089,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b3fede04462e05d46f106752de317752",
+      "css": "syringe",
+      "code": 60098,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6d5a56b97ab989dcd9522ba2e2912171",
+      "css": "three_keys",
+      "code": 60108,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2e9b3b23b5ee15e7b0a2aef8e7d139c4",
+      "css": "torch",
+      "code": 60113,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "00b217d8be2a8db6dc8006da0ef92ea1",
+      "css": "trophy",
+      "code": 60119,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7e7278d88deb62f2e69f5f9946f2bead",
+      "css": "wooden_sign",
+      "code": 60137,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "247ddf62125110a65917aef6d8215331",
+      "css": "wrench",
+      "code": 60138,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2733f803b01b59ae588e5405a27a180f",
+      "css": "beetle",
+      "code": 59691,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4c7bbc0bcaaa7e01a76ed3c5e414928c",
+      "css": "cat",
+      "code": 59743,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "23026d7bd68fb4def9640cf9417ecd1e",
+      "css": "bird_claw",
+      "code": 59694,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "023735ce70f73573ab98c8bdaf276c0a",
+      "css": "butterfly",
+      "code": 59731,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b73e8f36d8306ec16361ec36c7f00707",
+      "css": "dinosaur",
+      "code": 59803,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "36f081dec6678965c7bcbfab006d9c9b",
+      "css": "dragon",
+      "code": 59810,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8ea711875dca5cf328997c34da2ad187",
+      "css": "dragonfly",
+      "code": 59811,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "af18dad4c54abc72bf5285f509be11de",
+      "css": "eye_monster",
+      "code": 59827,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f841035e0ab846b479df622be5e95424",
+      "css": "fairy",
+      "code": 59831,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3a3a0fb9aec8b99316f9b5e43d759708",
+      "css": "fish",
+      "code": 59845,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ea2d307ea8aa679810792b27c05bd007",
+      "css": "fox",
+      "code": 59861,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "243a10fe614f9498147c0f137fb404fe",
+      "css": "gecko",
+      "code": 59870,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "79bab90f8426a79204b74b328d5ab08d",
+      "css": "hydra",
+      "code": 59915,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "40be725f875828c3657b44346dc7d968",
+      "css": "insect_jaws",
+      "code": 59919,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a65879da99b4e763d00025f251d6de42",
+      "css": "lion",
+      "code": 59954,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "efdb6e6d1f4993ffcdc925b5d111ca6c",
+      "css": "love_howl",
+      "code": 59958,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b54c25059385f31b0fa014df3b31c3ec",
+      "css": "maggot",
+      "code": 59959,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fc45db7ef0c07cbacf6e1a92ab3013ea",
+      "css": "octopus",
+      "code": 59984,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0bba5d367e2149164b9802fc7b8e2533",
+      "css": "rabbit",
+      "code": 60022,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c97f09ce793ca4773cf1cec6380aa066",
+      "css": "raven",
+      "code": 60026,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "23b1341c03573535250a83a49c7824fc",
+      "css": "sea_serpent",
+      "code": 60049,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "aef1b275112dc1215e003c1b334c68c6",
+      "css": "seagull",
+      "code": 60050,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "717ba87302907eeaeb5e74ca2ce493d4",
+      "css": "shark",
+      "code": 60051,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "55fb53bf8da91d88adbfc6544aa038f2",
+      "css": "sheep",
+      "code": 60052,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "40763df89a6adea5d6d3f97aa6ef8b40",
+      "css": "snail",
+      "code": 60068,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f808d2556d1d30b5c2b363a8c4692f9c",
+      "css": "snake",
+      "code": 60069,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9b616bde7eb9dca3999667785ecfd7ac",
+      "css": "spider_face",
+      "code": 60079,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "41f02596b32a20e8953830659a1add2c",
+      "css": "spiked_tentacle",
+      "code": 60082,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f969ca36a32737094d8c2a67d8f8991c",
+      "css": "spiral_shell",
+      "code": 60084,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "328791b8b0dabb718fd9919fe1005967",
+      "css": "suckered_tentacle",
+      "code": 60090,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3b3f46dbf87f8f59eae3f0228d5d6a0f",
+      "css": "tentacle",
+      "code": 60104,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ff7cd580f0d3130dbe9c6807d47491cd",
+      "css": "two_dragons",
+      "code": 60121,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "92073a8bc806ba62629dbf6867f4f3c7",
+      "css": "venomous_snake",
+      "code": 60127,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7cb0e37671602d9a617baeef9e84fe72",
+      "css": "wolf_head",
+      "code": 60135,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7721df449a9a79f5b38dfe423b1382c1",
+      "css": "wolf_howl",
+      "code": 60136,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d920ca92e8cc7a62310f20c1e6d506df",
+      "css": "wyvern",
+      "code": 60139,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f0dd68e5fb1c9e9d5a4fa6510178bfd2",
+      "css": "alien_fire",
+      "code": 59650,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "603b8485707e139b04a38f69459d1ebf",
+      "css": "batteries",
+      "code": 59677,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "68a731d17e290111f32603e131d31100",
+      "css": "battery_0",
+      "code": 59678,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3e31734219b8d8e9f27dfa7a3d4182bd",
+      "css": "battery_25",
+      "code": 59679,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a62050670978afb7c3f5de118e68728d",
+      "css": "battery_50",
+      "code": 59680,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "61f7c07cd8a0366c4d2a22639b95ab97",
+      "css": "battery_75",
+      "code": 59681,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d386c6ea042fb795eb75fb15f96a21ed",
+      "css": "battery_100",
+      "code": 59682,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "caef1de4ed866b574732e43d9cbc2136",
+      "css": "battery_black",
+      "code": 59683,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ff0113f71904a34afb7938e4a4fa0cc6",
+      "css": "battery_negative",
+      "code": 59684,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fe71c76a58a6781bc8ed5350d3010afe",
+      "css": "battery_positive",
+      "code": 59685,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "493cd171b36b4fdd0dafc58a3ce2235a",
+      "css": "battery_white",
+      "code": 59686,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e632e96d2fb2ad24a075cb0287520c2a",
+      "css": "cog_wheel",
+      "code": 59759,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e6e95ef96dc57c41e6926a601d200380",
+      "css": "cog",
+      "code": 59760,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "169d9621a18c4845db8433423068a3ab",
+      "css": "defibrillate",
+      "code": 59790,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e66c3f982b42fcaa8cbbf0aab7b75d7b",
+      "css": "energise",
+      "code": 59824,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "828a2437e9b053a19a3c72f674a1554c",
+      "css": "fast_ship",
+      "code": 59834,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ba10395a5444b774d3eccad3bf52d3bc",
+      "css": "gamepad_cross",
+      "code": 59865,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e67ed86bc7e90185bbe7dc18d493c4cd",
+      "css": "gear_heart",
+      "code": 59868,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a8a7f1777889069e492b010bd9fcb249",
+      "css": "gears",
+      "code": 59869,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "cd18fbc918e85a5b82a8adf773535fa5",
+      "css": "laser_site",
+      "code": 59935,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "bc6e95766248971c89565110ae85db2e",
+      "css": "lever",
+      "code": 59945,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "bb2aa89e15e84f0d908e238ba355d5c2",
+      "css": "light_bulb",
+      "code": 59947,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c333b27dfc456e2a50584364c174141d",
+      "css": "lighthouse",
+      "code": 59948,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4c0d8c26b22c6f779201503421aebec2",
+      "css": "load",
+      "code": 59956,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0afe86c69519025391e3a6e4d93f77d8",
+      "css": "magnet",
+      "code": 59960,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "69fbc9e739dffe6f776685b4100db99b",
+      "css": "microphone",
+      "code": 59967,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f0178be87c34e1c3fd9d8e0e3c3d7b85",
+      "css": "nuclear",
+      "code": 59981,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3ebe8d293613ddeb627d976fdd48accc",
+      "css": "radar_dish",
+      "code": 60023,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3221c03a6404b11ba39e84a9ce225dd8",
+      "css": "radioactive",
+      "code": 60025,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0d9286a84324b172a37713a799ae171b",
+      "css": "reactor",
+      "code": 60027,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9a8f616e91c231316d6e87444c58e941",
+      "css": "recycle",
+      "code": 60028,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "52c828260d27c7c8bde1b2c7b183c831",
+      "css": "regeneration",
+      "code": 60029,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b8fbef4a8c8a087d57074c90a2e59b1a",
+      "css": "repair",
+      "code": 60031,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "93bc83dcc4c3eb4fe85d7de382ad669e",
+      "css": "robot_arm",
+      "code": 60037,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9c18fb3010b707a55dcb0919162b6c8c",
+      "css": "speech_bubble",
+      "code": 60077,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "98a19af88863e2470bf2eb37961de8b1",
+      "css": "speech_bubbles",
+      "code": 60078,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "feb51cdf13c9bd631a4f673f3bd8ba2d",
+      "css": "surveillance_camera",
+      "code": 60097,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2b43906d13d0dfd9d0516fde45871ef8",
+      "css": "telescope",
+      "code": 60103,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ee81460043293a42ae7f4897bd32e9c5",
+      "css": "tesla",
+      "code": 60105,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "97a00788197ff229331c51e4e1f1d8e3",
+      "css": "unplugged",
+      "code": 60125,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7607ae31bb7dce1f525d5a1354a46e47",
+      "css": "wifi",
+      "code": 60133,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ca7dfedf962494a718ae5801d45b4995",
+      "css": "wireless_signal",
+      "code": 60134,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "adb5761616b6e8ae7a58dd67e2e8027e",
+      "css": "bottom_right",
+      "code": 59711,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d9e66bee1f49161ff595faf66d1c984b",
+      "css": "cancel",
+      "code": 59733,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5901fc0a5896b108a69a4ca7f239c436",
+      "css": "clovers_card",
+      "code": 59755,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a1e3f98b74b8f07b4482ea9e23bb03e2",
+      "css": "clovers",
+      "code": 59756,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5c27ab5d272820b2a17d402d8b242c1b",
+      "css": "diamonds_card",
+      "code": 59795,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "353015bf181ed7da6c362b7e1cd9301d",
+      "css": "diamonds",
+      "code": 59796,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "123604fef029db1f88efd19f38e8fa9f",
+      "css": "hearts_card",
+      "code": 59897,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f27decd5e70e8bb6a0722a770257663c",
+      "css": "hearts",
+      "code": 59898,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3f1bded9e5752797ca1aa15f1d58afdb",
+      "css": "spades_card",
+      "code": 60073,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "def83b1268d5ed2bd4ae3446da64c6d4",
+      "css": "spades",
+      "code": 60074,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b3f1f43bb36f65c79e32a7b6fd6db5b5",
+      "css": "suits",
+      "code": 60091,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f05112683672380350a4d1aa5680c7cb",
+      "css": "chessboard",
+      "code": 59747,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ad9515b670bda652a0de577cffbfc672",
+      "css": "dice_one",
+      "code": 59799,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8b764b451164cc07a8b68ff7b92a68c2",
+      "css": "dice_two",
+      "code": 59802,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3244223db30576aa43fcb80d3da4b633",
+      "css": "dice_three",
+      "code": 59801,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "db6d20173fd0ec71480b2cb196c270b9",
+      "css": "dice_four",
+      "code": 59798,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1f717f4e938786c84185ac8710dd62a8",
+      "css": "dice_five",
+      "code": 59797,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "237cf91862389092364b4aabc6362fd4",
+      "css": "dice_six",
+      "code": 59800,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "bbdb2f44a3b0ed0f4e502ea32c4a9afc",
+      "css": "perspective_dice_one",
+      "code": 59995,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "91cbd5d5dff6f0356cc239b1370568c9",
+      "css": "perspective_dice_six_two",
+      "code": 59997,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4d8cba41c96b3f6af5c1175bce6025bb",
+      "css": "perspective_dice_three",
+      "code": 59999,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "296e9f8d3d0150270ee0c3148def71f8",
+      "css": "perspective_dice_four",
+      "code": 59994,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b9c903804d6b7e47e80763755501c9de",
+      "css": "perspective_dice_five",
+      "code": 59993,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7d608069c8752b109fbf8207519fa33e",
+      "css": "perspective_dice_six",
+      "code": 59998,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0e9ab6b8b6cc100687b7d02d089eaee7",
+      "css": "perspective_dice_random",
+      "code": 59996,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "82146a9206967c41cc33ab21c160bcb5",
+      "css": "acorn",
+      "code": 59649,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0e2ac1cc4ab6b596f660e7cb3a9d03d6",
+      "css": "apple",
+      "code": 59658,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8788ad7580c00e218788afaaf95cb7f4",
+      "css": "beer",
+      "code": 59690,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "468106486a7d1c27d12062b080849848",
+      "css": "brandy_bottle",
+      "code": 59715,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8dcb8470160dc08a8fd81b37ce3c04ec",
+      "css": "carrot",
+      "code": 59740,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "37948269530d0cbe30f1f73489f0c517",
+      "css": "cheese",
+      "code": 59745,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "69bf8c6e80f41bb355f7ec9f8981bbbb",
+      "css": "chicken_leg",
+      "code": 59748,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4c722218206ac67e3a2d743c7a0e317e",
+      "css": "coffee_mug",
+      "code": 59758,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0084ad4108e2fc7f09487dc57063dc25",
+      "css": "crab_claw",
+      "code": 59764,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b51f30bcef710563cd3e17fd3a1b7009",
+      "css": "egg_pod",
+      "code": 59820,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "edca931fb856a7a561d83d31a0513987",
+      "css": "egg",
+      "code": 59821,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3c23038a3a7520042bbf79c8c71f6355",
+      "css": "eggplant",
+      "code": 59822,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a2fcf22adb01626bcfb6d33af127700e",
+      "css": "honeycomb",
+      "code": 59906,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fb6e9d2ecadd10e8b0552d1775ba5c06",
+      "css": "ice_cube",
+      "code": 59916,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "041d33fdd0e7a29547536b028cd5ed8b",
+      "css": "knife_fork",
+      "code": 59928,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "76063d5f73feb53f6f154971aea5da66",
+      "css": "meat",
+      "code": 59964,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e4cb74a20ae84abe61e46cad7d2b36a1",
+      "css": "roast_chicken",
+      "code": 60036,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "32ed8d99bf87449c58ea9c059fbc3833",
+      "css": "toast",
+      "code": 60110,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f7aaaff57d6c2e825b208033423c29ec",
+      "css": "clover",
+      "code": 59754,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8b80f88f5fe738318a9fa42ce1655d66",
+      "css": "daisy",
+      "code": 59786,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "51cdaff65cf97f86b527ebc1840fa03c",
+      "css": "dead_tree",
+      "code": 59787,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "16d8ee7f115e0b6726faff20bd3f1e06",
+      "css": "flower",
+      "code": 59853,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0b55fe7a62b6a64765295b6d5e842414",
+      "css": "flowers",
+      "code": 59854,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "35305a310e3bc64f302766a59c88bb49",
+      "css": "grass_patch",
+      "code": 59878,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "303ea632e56011b497cab7cd07fa595c",
+      "css": "grass",
+      "code": 59879,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "859af21737bf15417764d7e48a15e219",
+      "css": "leaf",
+      "code": 59937,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ab7d8f416f03aa8e59908ea4f1c79f70",
+      "css": "palm_tree",
+      "code": 59990,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9a367501675ae96451d1c458ab49dd6d",
+      "css": "pine_tree",
+      "code": 60002,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a7a80dff022c1684edbfdb57b20be756",
+      "css": "sprout_emblem",
+      "code": 60087,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "94f79369d1bdd4af2a44c1bc4b81b2cf",
+      "css": "sprout",
+      "code": 60088,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "28f8c675e6d29a8d6f8b24e2ed3f5843",
+      "css": "super_mushroom",
+      "code": 60095,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fca2a7ff7701c8d37ce172fadd10fc48",
+      "css": "trefoil_lily",
+      "code": 60116,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8260d3679335bcfd876ebdcc2a56018b",
+      "css": "zigzag_leaf",
+      "code": 60142,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0d83dce7384f2c6cdb9ee9fa9edefb93",
+      "css": "aquarius",
+      "code": 59659,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "92ab549bd4b930d9bc3410fc58670ad2",
+      "css": "aries",
+      "code": 59664,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "674c7add3954c18e40b8addb44c65b4c",
+      "css": "cancer",
+      "code": 59734,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f02c14e5fd93879777a43f2400dd3223",
+      "css": "capricorn",
+      "code": 59739,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "878985c8cb406b346a82880887fec692",
+      "css": "gemini",
+      "code": 59873,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1316ed2a879d17696bdc6fb9623b8df1",
+      "css": "leo",
+      "code": 59938,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "600de5017c487b924b6f9630514279a4",
+      "css": "libra",
+      "code": 59946,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "92305f59d4463f2a69aec36d846502a6",
+      "css": "pisces",
+      "code": 60004,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c3d14ffe81195e055fe550fbc370060d",
+      "css": "sagittarius",
+      "code": 60042,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ff7e47ce96da2b85b09bed6f683da069",
+      "css": "scorpio",
+      "code": 60046,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7bae4e5457c54c6492c6e1feb36047b2",
+      "css": "taurus",
+      "code": 60102,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b75109570adca1297ece4db3524a5f46",
+      "css": "virgo",
+      "code": 60131,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7bf000a0a3e098766e2126ab7b9e8542",
+      "css": "acid",
+      "code": 59648,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7711c2373e93ccd89e9d50e22ecc828c",
+      "css": "arson",
+      "code": 59667,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "86b7f8e1916e4bb8c63994d09cfa2158",
+      "css": "biohazard",
+      "code": 59693,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5579621d3bc28d20e4edc30c7df23432",
+      "css": "blade_bite",
+      "code": 59696,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9d8fff57a6300fbbb91b87b178af0fda",
+      "css": "blast",
+      "code": 59697,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "113eb130d733265a776d0fff524ac5e8",
+      "css": "blaster",
+      "code": 59698,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c6d6812b43086e271125756209488d89",
+      "css": "bleeding_eye",
+      "code": 59699,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "96b23f6aa151a7712a6a195be3b1af47",
+      "css": "bleeding_hearts",
+      "code": 59700,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "51c9f0c4b5da31f11189d9c9be089a32",
+      "css": "bone_bite",
+      "code": 59704,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f8995447e2ae066145b35ee7fa48e28d",
+      "css": "burning_meteor",
+      "code": 59729,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1099ccb6fbe72178ddff4a7b0f017a87",
+      "css": "crush",
+      "code": 59777,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "aa98e6688975ceb6e0c49773fb71ea50",
+      "css": "decapitation",
+      "code": 59789,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b51217d17e19e1a634fb739a06dea8cd",
+      "css": "fall_down",
+      "code": 59832,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1b067788f995a7f0af9b17e1375b58ed",
+      "css": "fire",
+      "code": 59843,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "60378f1bac03d191e3bc936c56cf7df8",
+      "css": "focused_lightning",
+      "code": 59856,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ad17d7d6fe7c91b54ee3665d665c9b98",
+      "css": "food_chain",
+      "code": 59857,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d87d007d48789400af106c57b6a611f6",
+      "css": "heartburn",
+      "code": 59896,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "88fb3aedea05ed0d2bb205eee2b0b334",
+      "css": "poison_cloud",
+      "code": 60017,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d6e40caa08f4c26b30de9817a37063b5",
+      "css": "tombstone",
+      "code": 60111,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4c8256bc5de0a4aa2099eba5b8b250d9",
+      "css": "brain_freeze",
+      "code": 59714,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ee98d2c4e75eb4eebd674b4e517ebd11",
+      "css": "burning_book",
+      "code": 59726,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "dc0aaaf6e299abe3b9d254564119bc8f",
+      "css": "burning_embers",
+      "code": 59727,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9d5fe8fa2f6067165c23fa975b750c03",
+      "css": "burning_eye",
+      "code": 59728,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a40e67f1ba8aace8cadaa078496d5ab2",
+      "css": "burst_blob",
+      "code": 59730,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4e73e3ff6e807314f71a4ccd3d0a3922",
+      "css": "cold_heart",
+      "code": 59761,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9549526547c77c8b7951909ce07af652",
+      "css": "crystal_ball",
+      "code": 59778,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a1c427de37e368a02ef27589f3c4ea55",
+      "css": "crystal_cluster",
+      "code": 59779,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8330e230bd689c84830aaac4d932b88b",
+      "css": "crystal_wand",
+      "code": 59780,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "40faabbcc7d83e88f1a2575b0cf639cc",
+      "css": "crystals",
+      "code": 59781,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2676c2da5d2994f33c87845a819da783",
+      "css": "diamond",
+      "code": 59794,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "cb22f39ae172be6225de7d7a43009621",
+      "css": "divert",
+      "code": 59804,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "bad68a234b66b199d80f3ef6cbdf18eb",
+      "css": "doubled",
+      "code": 59807,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0be91a1530695eff5043303eb43750a3",
+      "css": "dragon_breath",
+      "code": 59808,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ca5c5ff5fc0b83c38e366b8f27d43644",
+      "css": "droplet_splash",
+      "code": 59816,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9cc2b974d28b0fbe1a62e49cc1c49ecb",
+      "css": "droplet",
+      "code": 59817,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "29c9afd6da7b12fe6f22c96a6926fd84",
+      "css": "droplets",
+      "code": 59818,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b49122cee34a8ceed2c8a2216eb1c35d",
+      "css": "emerald",
+      "code": 59823,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2a5918f9255be75b19d0975f98583220",
+      "css": "eyeball",
+      "code": 59829,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9366c4135ec6e20621ad1c4df55fdbc6",
+      "css": "fairy_wand",
+      "code": 59830,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "af9136bdcdcf8f8d6f448aac688e6bb5",
+      "css": "fire_breath",
+      "code": 59839,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "70eca067c6b463f8e2f3ed5fffc59cb0",
+      "css": "fire_ring",
+      "code": 59840,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8b7b5e4c47965937c6bf7fccea0b0bfc",
+      "css": "fire_symbol",
+      "code": 59842,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c27d1dfac9a0175c05277c89bb691b61",
+      "css": "flame_symbol",
+      "code": 59847,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "418a0bb4323d617d62fc555c8ea93f29",
+      "css": "frost_emblem",
+      "code": 59862,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c8895c2a0dbee2a3d42d5df3b79d4706",
+      "css": "frostfire",
+      "code": 59863,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "94b985f66983360904d3719b2531474c",
+      "css": "gem_pendant",
+      "code": 59871,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "40c64ecabe739713e771a6b83307964a",
+      "css": "gem",
+      "code": 59872,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "18d5d382fa16518894e8d07f6466262a",
+      "css": "gloop",
+      "code": 59875,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "24621380e9e3e756f89e67cad1783153",
+      "css": "gold_bar",
+      "code": 59876,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4dfede75b9adedf016741e595aa38249",
+      "css": "health_decrease",
+      "code": 59891,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fdc00a3b4786742ed6b0a02c5d1c5f63",
+      "css": "health_increase",
+      "code": 59892,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2d30f7a9bf3ff3e03a053db58687bd1d",
+      "css": "health",
+      "code": 59893,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ec66e59498568dbd1f10f21df835d978",
+      "css": "hospital_cross",
+      "code": 59911,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "97794d8d98bb0fca98a5ad984b949030",
+      "css": "hot_surface",
+      "code": 59912,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d63b8bd99922d7a74ac8dae7bded72ff",
+      "css": "hydra_shot",
+      "code": 59914,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1bf10de942bbf4b5faf925e90b365913",
+      "css": "incense",
+      "code": 59918,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "91783e69aafaeb660b220819c398f403",
+      "css": "kaleidoscope",
+      "code": 59923,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fa6a4f7bde43b70c8d8df65a2f40d3a9",
+      "css": "lava",
+      "code": 59936,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "320c156d34748c20e0aedb951d7b9032",
+      "css": "level_four_advanced",
+      "code": 59939,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c071e68eab1a979ba705b6cb3682211b",
+      "css": "level_four",
+      "code": 59940,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fc4db1ba12da44cab81322d735ef89f9",
+      "css": "level_three_advanced",
+      "code": 59941,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f2af7896c276035f8e75d43838f7a1d3",
+      "css": "level_three",
+      "code": 59942,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7c32768e5573c51fb54da1717cddc231",
+      "css": "level_two_advanced",
+      "code": 59943,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5360e70310563b9da55995d341bd71b7",
+      "css": "level_two",
+      "code": 59944,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8ee4224be68c5cb20a766a117137c450",
+      "css": "lightning_bolt",
+      "code": 59949,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4028342e7bc3b07edfd09ac0a0bbf5a6",
+      "css": "lightning_storm",
+      "code": 59950,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2dfbc7052448acff9d94dbdea47defe3",
+      "css": "lightning_trio",
+      "code": 59952,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1534492cb37d9c56e9916cffcec1d85a",
+      "css": "lightning",
+      "code": 59953,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "26ef563b04da60cfab091e6786669a5f",
+      "css": "sapphire",
+      "code": 60043,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f94999a43506cb6a8a7adcb757e7d9b0",
+      "css": "small_fire",
+      "code": 60067,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "186276601dce594e7c043c6cd219ebae",
+      "css": "snowflake",
+      "code": 60071,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ac0e0275f10c015426c6adaed3321633",
+      "css": "sun_symbol",
+      "code": 60092,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c2a506fcb103905b93e3877c07dac484",
+      "css": "sun",
+      "code": 60093,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6e929639f77973220a415676ad9d9693",
+      "css": "sunbeams",
+      "code": 60094,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "01f5777cf26c2223dc964e8dcf890e5d",
+      "css": "triforce",
+      "code": 60118,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e4df4e611b971bd7d40fc8e7d12a198b",
+      "css": "two_hearts",
+      "code": 60122,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9abbd324ea543b186b4e90967f252dd7",
+      "css": "water_drop",
+      "code": 60132,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0a6a54836f3dd2ee182d90f05c165950",
+      "css": "all_for_one",
+      "code": 59651,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e9195b182fca4484b4fab5322ea90a4e",
+      "css": "anvil",
+      "code": 59657,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6cb63032d418ddd01d2e3890f73946b0",
+      "css": "arcane_mask",
+      "code": 59660,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "67744f15f1a079ab942dc64e6013ea59",
+      "css": "archer",
+      "code": 59661,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "71ee97b42b998cb61f902c02dc579076",
+      "css": "archery_target",
+      "code": 59662,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "37c25c0f104723da7591c8a50a2b184b",
+      "css": "arena",
+      "code": 59663,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "24e727b76fae4510cc2869747066d570",
+      "css": "arrow_cluster",
+      "code": 59665,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c19124b5ef93dfbdbe49241f1f20a0e6",
+      "css": "arrow_flights",
+      "code": 59666,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f4603b4f5655dff78c0edbe237ec0b85",
+      "css": "axe_swing",
+      "code": 59670,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0abc41cd43915d1519ca5d85aa5a3eb9",
+      "css": "axe",
+      "code": 59671,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3d113fd2a18a8dcdcef14a407ed91fcb",
+      "css": "barbed_arrow",
+      "code": 59673,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "050c925ead3a6201a51c54515a6762d9",
+      "css": "barrier",
+      "code": 59674,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4ebdf8e31260f03f2acf032e72502a4e",
+      "css": "bat_sword",
+      "code": 59675,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5b2516b47fd2b9355a96e75fd986cff4",
+      "css": "battered_axe",
+      "code": 59676,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f67cd79b9bfac41589671f4d0f3010a7",
+      "css": "beam_wake",
+      "code": 59688,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5c64c07f80770255b97775e3e6dfc519",
+      "css": "bear_trap",
+      "code": 59689,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b137519bd241a0658042b8302db0c63a",
+      "css": "bolt_shield",
+      "code": 59701,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3fe06060d09a16e92fa260e72a10f1b4",
+      "css": "bomb_explosion",
+      "code": 59702,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e86fd7865651cdd85467bb4c9afba941",
+      "css": "bombs",
+      "code": 59703,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6e120e0d19d2d68a670f0cada402cefa",
+      "css": "bone_knife",
+      "code": 59705,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "063fe02dffea6913237b0505ef147e59",
+      "css": "boomerang",
+      "code": 59707,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ee555aaabbd33ee303f39474e4f3aa24",
+      "css": "boot_stomp",
+      "code": 59708,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d56e5d54e67258541900010ab07971a9",
+      "css": "bowie_knife",
+      "code": 59712,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "cb7f1f7693502767ba82c87a7d844489",
+      "css": "broadhead_arrow",
+      "code": 59717,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f3aa0f8eae3c7632564c34445991e971",
+      "css": "broadsword",
+      "code": 59718,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "712fd71c958c566758bd015cfb475827",
+      "css": "broken_bone",
+      "code": 59719,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2bc503beafd0fa3b3c660a3c9685e8e2",
+      "css": "broken_shield",
+      "code": 59722,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "18bb0ff6a5e4bfec87a19f40824bd40b",
+      "css": "bullets",
+      "code": 59725,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "146b8f29b82cbbaff7410e4a72ad35fc",
+      "css": "cannon_shot",
+      "code": 59737,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "28fc6131c0f1cf04ed10c95f81155714",
+      "css": "chain",
+      "code": 59744,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8540310efd0a1caa686595f2af95a0ce",
+      "css": "chemical_arrow",
+      "code": 59746,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "dccfff10e4c7e20793dcf5f76011491f",
+      "css": "circular_saw",
+      "code": 59750,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "56a5b1971194a2b8259c3c39f2a358a6",
+      "css": "circular_shield",
+      "code": 59751,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "09f3d4a8b819c24f00a83e422d1fcecf",
+      "css": "cluster_bomb",
+      "code": 59757,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3bf0417a2481b70832856b13cbd9c6bb",
+      "css": "cracked_helm",
+      "code": 59765,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5e3b689457a8d65d7833eb0fdea97834",
+      "css": "cracked_shield",
+      "code": 59766,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "274e659f9ccac668d365a734ea278c3b",
+      "css": "croc_sword",
+      "code": 59767,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6e33551260f75c88291c430cd5714dfd",
+      "css": "crossbow",
+      "code": 59768,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7391921698450a3ec54812f4f8764985",
+      "css": "crossed_axes",
+      "code": 59769,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ef073452b32bee5775a97808dddd1cfd",
+      "css": "crossed_bones",
+      "code": 59770,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e09a914ceb2017f6568958af2ff4ef1c",
+      "css": "crossed_pistols",
+      "code": 59771,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "907ad76947657f820c3ffc5c1f7ad9de",
+      "css": "crossed_sabres",
+      "code": 59772,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "acca5a333bcfe091982b3c7898ab626c",
+      "css": "crossed_swords",
+      "code": 59773,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f8f8cc352eae9fee495dbb30304801b9",
+      "css": "daggers",
+      "code": 59785,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2a8542d683382a2f8e39ebb89db925b5",
+      "css": "dervish_swords",
+      "code": 59792,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d4154fae11f2bc4c0ab021ddc4e7698d",
+      "css": "diving_dagger",
+      "code": 59805,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b7c62170fc69e66ee45757ca8eea22a3",
+      "css": "drill",
+      "code": 59812,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "515e71283336921534c0b18628246af3",
+      "css": "dripping_blade",
+      "code": 59813,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "cb32f5763509f06bb4f07c01b84f8b42",
+      "css": "dripping_knife",
+      "code": 59814,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "bba2783b3f1458e8729b3a3f8fc1662a",
+      "css": "dripping_sword",
+      "code": 59815,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5b27c0b480ae9e7a686c663e5c800e1a",
+      "css": "duel",
+      "code": 59819,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e0b7c5305136d7d1a00352ab98362d7e",
+      "css": "explosion",
+      "code": 59825,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "92ec6201945c87393e8b41d6a08ca8cb",
+      "css": "explosive_materials",
+      "code": 59826,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d3a0f4ad152bb9aef32ecbcee171f59d",
+      "css": "eye_shield",
+      "code": 59828,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "37aff26134ffd166a35410d681352040",
+      "css": "fire_bomb",
+      "code": 59838,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "eae9123bf0c25de9e0c204b839871590",
+      "css": "fire_shield",
+      "code": 59841,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "33e49d65e646699eab066f001b746bc0",
+      "css": "fireball_sword",
+      "code": 59844,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7a1fe6295d5caaf087b66eb188e6891b",
+      "css": "flaming_arrow",
+      "code": 59848,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "de0567ff8d7562ad881b7a9445dfd9a5",
+      "css": "flaming_claw",
+      "code": 59849,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7ab8b0a2f292255940ee8cf00e91bb49",
+      "css": "flaming_trident",
+      "code": 59850,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a4fc761ca076bb3c6fc2213fe6121d65",
+      "css": "flat_hammer",
+      "code": 59852,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c23865ad56dcb95a5b5c2e1c8bf6d465",
+      "css": "frozen_arrow",
+      "code": 59864,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "509fa4d2ffa6537af551973e4dd8ccbd",
+      "css": "gavel",
+      "code": 59866,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9075e54a24ce3091aafba6c4c4d2f553",
+      "css": "gear_hammer",
+      "code": 59867,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4dde2407fac243360e40c5f6ab65a3d3",
+      "css": "grappling_hook",
+      "code": 59877,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "195e94ad84c7f99d2fd3c142d67d5a57",
+      "css": "grenade",
+      "code": 59880,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6d72e3d2fa2552599295c9543a543004",
+      "css": "guillotine",
+      "code": 59883,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b6db20a8f0649725be9373cf23666c54",
+      "css": "halberd",
+      "code": 59884,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1ecc81024ce99d289f7d35d6c0545fef",
+      "css": "hammer_drop",
+      "code": 59885,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a8ef13bc684882e3aca29987fbe56f5b",
+      "css": "hammer",
+      "code": 59886,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b55c20e8f0927babadaf5e4e4b4f7929",
+      "css": "hand_saw",
+      "code": 59888,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b94281dfbaccfdaacb75ebd94dd05500",
+      "css": "harpoon_trident",
+      "code": 59890,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f061966819b0189d8817a9cbd48e11a8",
+      "css": "heavy_shield",
+      "code": 59901,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8abbf8abd6779115aa94febb6b7e4ead",
+      "css": "helmet",
+      "code": 59902,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0ddf74c09397aed6808b14a96ba64aeb",
+      "css": "horns",
+      "code": 59909,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7ec2d99a757c1d231c86073ce1b3cd91",
+      "css": "implosion",
+      "code": 59917,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1d929ada615574e91e0f9f8e86b44ec3",
+      "css": "jetpack",
+      "code": 59921,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7b5f302b547630a28fa853481d770f1f",
+      "css": "kitchen_knives",
+      "code": 59927,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d638b960c78cc4e8d916548964fadde6",
+      "css": "knife",
+      "code": 59929,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "81e9b6b5e9f062b2169d9d1dde46886d",
+      "css": "knight_helmet",
+      "code": 59930,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e9feb5e16b1e552dc798e7c5e7c4af83",
+      "css": "kunai",
+      "code": 59931,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "198dc82e4de3a648c367ca7496dabdfd",
+      "css": "large_hammer",
+      "code": 59933,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d009fc3737675fc8740f0995c899aaa3",
+      "css": "laser_blast",
+      "code": 59934,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8720da23ee0589d4d6445e8183a5a892",
+      "css": "lightning_sword",
+      "code": 59951,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e1459348c2179b1f85b95665e25eec97",
+      "css": "mass_driver",
+      "code": 59961,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d817eb79c665f40191e93b9acf871389",
+      "css": "mp5",
+      "code": 59974,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "000ec9083fe88c45b2a4b605d2d9849b",
+      "css": "musket",
+      "code": 59977,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3344ef2c913886b8a2af35741eeb9b53",
+      "css": "plain_dagger",
+      "code": 60005,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c683288dccf115aa47aee4cdb38db729",
+      "css": "relic_blade",
+      "code": 60030,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a871fd60dda0fd722e105b9253c11ecb",
+      "css": "revolver",
+      "code": 60033,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "38c9ab79cc1574e0338c943f5c18ac4a",
+      "css": "rifle",
+      "code": 60034,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f4cce5f4376072bce5e71f67451ec886",
+      "css": "round_shield",
+      "code": 60039,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b50c76bedb6137bd38e999f9f6f48cde",
+      "css": "scythe",
+      "code": 60048,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "d0330a7c986a04cbf311efe5394fbc4c",
+      "css": "shield",
+      "code": 60054,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5ff6f4c02fffbfa6b8563e1a7a6de39a",
+      "css": "shuriken",
+      "code": 60060,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "54413341d67b79a17336720840cf1e24",
+      "css": "sickle",
+      "code": 60061,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "86c622610c1a2b42f835d8c1e82751a2",
+      "css": "spear_head",
+      "code": 60076,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9a8834141d77a8529ad78381014d5e3b",
+      "css": "spikeball",
+      "code": 60080,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "68cff89e2577802637152a9d09b69805",
+      "css": "spiked_mace",
+      "code": 60081,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1594f941b806425f95be463ec0ef3adc",
+      "css": "spinning_sword",
+      "code": 60083,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "94380c236eb771311492755c94a3d3b8",
+      "css": "supersonic_arrow",
+      "code": 60096,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "70ab6d6e4fe20e72b6b0e0bc3765f667",
+      "css": "target_arrows",
+      "code": 60099,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4ce036de5af1b6d1044b6d1210e28425",
+      "css": "target_laser",
+      "code": 60100,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5f2ee6dc701ac819794d44f7953d75a5",
+      "css": "thorn_arrow",
+      "code": 60106,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4035a3c9b3fc09a4ae4db4df6bdfa25d",
+      "css": "thorny_vine",
+      "code": 60107,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6a4cf8e336fdbc94763d7db432af8f83",
+      "css": "trident",
+      "code": 60117,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "73e93c3aab4411dc5e05663f0aa5f45c",
+      "css": "vest",
+      "code": 60128,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "918a7f6a4cc938aac1d920f0fbbd0e14",
+      "css": "vine_whip",
+      "code": 60130,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "23053c34893ed45acc81ade6ab1d3bbc",
+      "css": "zebra_shield",
+      "code": 60141,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "192e49ffe230d7d5bd142a70ff26380a",
+      "css": "anchor",
+      "code": 59654,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "369f49caef048a6a7fdd4ab69ab9a7bd",
+      "css": "angel_wings",
+      "code": 59655,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f36e36877cca5e7abc1443957f563892",
+      "css": "ankh",
+      "code": 59656,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e776a06d529815400c5ea72b5dccc883",
+      "css": "batwings",
+      "code": 59687,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b65169d91e3f9ffd12865c9e7f48569a",
+      "css": "bell",
+      "code": 59692,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "11530f63ed4bad39c46fa8226f13b14e",
+      "css": "bird_mask",
+      "code": 59695,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9ac2d18cdd5b1bb0d6a764db3143cb33",
+      "css": "bowling_pin",
+      "code": 59713,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fa676227c4f51f3c914efee9425fb26b",
+      "css": "bridge",
+      "code": 59716,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3c9bfe17ba75480e3de0be86105c9b84",
+      "css": "broken_heart",
+      "code": 59721,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2496ee78c515584b838a2f6b75501fbd",
+      "css": "broken_skull",
+      "code": 59723,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8f195a656646458e341e854344d8cab4",
+      "css": "campfire",
+      "code": 59732,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8bbefa2ec417f6f9c335f04e06514910",
+      "css": "candle_fire",
+      "code": 59735,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4d29097f38b556bd9b4629c0d39855f9",
+      "css": "capitol",
+      "code": 59738,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "98ab181bc64606649fa596b5fe3e5139",
+      "css": "castle_emblem",
+      "code": 59741,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "bf5148f7e6024c084f4c11bccd440b56",
+      "css": "circle_of_circles",
+      "code": 59749,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ebbe51c631533f2d91e3c298a000bf40",
+      "css": "cloak_and_dagger",
+      "code": 59752,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c5ed4f5a29f5104a733a67f078ba009a",
+      "css": "clockwork",
+      "code": 59753,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4ff8fe83fb361d855d3b9891874e1e30",
+      "css": "crowned_heart",
+      "code": 59776,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f0af88af512d80d752c6d62a1eead7fb",
+      "css": "cubes",
+      "code": 59782,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "459d04ce02384e056db98f3976cb8253",
+      "css": "cut_palm",
+      "code": 59783,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a4b4d68aed903c74606b75f83be20f73",
+      "css": "cycle",
+      "code": 59784,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0ad98427c484de25786bba8433f39421",
+      "css": "death_skull",
+      "code": 59788,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "65cc1743533b3bfee855153156de9f11",
+      "css": "demolish",
+      "code": 59791,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7e95880708c40f92563b95d2fe832c90",
+      "css": "desert_skull",
+      "code": 59793,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "ff30593387834b24cc9494d2aac820fa",
+      "css": "dragon_wing",
+      "code": 59809,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4c231feaa42a8eb7d2582d7821db53b8",
+      "css": "feather_wing",
+      "code": 59835,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "743eb248f2c5419667fbcc40fe0780ca",
+      "css": "feathered_wing",
+      "code": 59836,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6035c031f6f99dfb1409d93a8da10f57",
+      "css": "fedora",
+      "code": 59837,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "9a14437359bcf0ef6c1906d791bec71f",
+      "css": "fluffy_swirl",
+      "code": 59855,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "43469e0792a9a7db0ece298bdcb63ea8",
+      "css": "footprint",
+      "code": 59858,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "41a96798633e0a9a7dd884f978e7ac82",
+      "css": "forging",
+      "code": 59859,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1e859618f842a435475e4fce1cffecc6",
+      "css": "forward",
+      "code": 59860,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e3c69fca0f916e040b6007e0f1744db0",
+      "css": "glass_heart",
+      "code": 59874,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "eef34a4493c968df853057f7dc927ea3",
+      "css": "groundbreaker",
+      "code": 59881,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fbdefb3e7d76c430f86f532ad6709921",
+      "css": "guarded_tower",
+      "code": 59882,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0a4022a5fc130d1fe5623cc531096dda",
+      "css": "hand_emblem",
+      "code": 59887,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2bf86c564f305d4932b68eef36c03364",
+      "css": "hand",
+      "code": 59889,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "69a7706e1f8b3a91fd121bb34f8e6ce2",
+      "css": "heart_tower",
+      "code": 59895,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f30274f07bd6233c0e0b9f4829479e87",
+      "css": "heat_haze",
+      "code": 59899,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3c8a1294bb7eb10f8b647c6470e0add8",
+      "css": "heavy_fall",
+      "code": 59900,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4f7f14d918eebff2e31da741c3bd067c",
+      "css": "help",
+      "code": 59903,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7cf9de2713586859b1e3f07237f3826c",
+      "css": "hive_emblem",
+      "code": 59904,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "969f53ed1929af53ad4beb15f7df2935",
+      "css": "hole_ladder",
+      "code": 59905,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5b1f2fddeb9d2efc2beb912565fd3724",
+      "css": "hood",
+      "code": 59907,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8a64a19e786492a3b5fd50dc503edbf1",
+      "css": "horn_call",
+      "code": 59908,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "fc0becd6e20e20e9867d1436a6b0b390",
+      "css": "interdiction",
+      "code": 59920,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "e5629ff2157219865b86e75f2b8ccab7",
+      "css": "locked_fortress",
+      "code": 59957,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "46d228e5b328b6c6ff7825ea0cdb57ab",
+      "css": "meat_hook",
+      "code": 59963,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a2ef00ee3a0c2781eb8f3e3911ff4a0b",
+      "css": "metal_gate",
+      "code": 59966,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "42233a0ecd40816e534bca933be21ab1",
+      "css": "mine_wagon",
+      "code": 59968,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "feaf1b7cfbea8cd0cb41b47a050946c6",
+      "css": "mining_diamonds",
+      "code": 59969,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a89f50d5d3a1d10d645a2d497843628c",
+      "css": "montains",
+      "code": 59972,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "392bcf3683391c9a49900da17e8fa38a",
+      "css": "nodular",
+      "code": 59979,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3feae0f9eb5bf97e84de94b69b31187c",
+      "css": "ocean_emblem",
+      "code": 59983,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "5b54096d1ac64d089efd0ef2f20cd253",
+      "css": "omega",
+      "code": 59985,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8c690daa98f22522241771cea43ab513",
+      "css": "on_target",
+      "code": 59986,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "518dc1362d259df9ef529e545f7ba1da",
+      "css": "ophiuchus",
+      "code": 59987,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "37d5fc9a8819870e22f2691f91be524b",
+      "css": "overhead",
+      "code": 59988,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "0b90f50e06b323a32c0dca801214c9e1",
+      "css": "overmind",
+      "code": 59989,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f289fabfe0360db9394cfa30c852000d",
+      "css": "pawprint",
+      "code": 59992,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1cb1f90374328a2d62f07418e171b015",
+      "css": "podium",
+      "code": 60016,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6c98de4c150f45c0be5c1c6df880dbad",
+      "css": "pyramids",
+      "code": 60019,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "465d45740a328e039b80d55daf931467",
+      "css": "queen_crown",
+      "code": 60020,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "3386bd3c104ecb8ed642c4cd6ff8dd7c",
+      "css": "radial_balance",
+      "code": 60024,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "56cd4942ad547cebcb8b65efa95d4843",
+      "css": "reverse",
+      "code": 60032,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2d2e900e19b64c9bb07d9a036330f723",
+      "css": "scroll_unfurled",
+      "code": 60047,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "059de53ec0efbb5bbf82355c9cd002a5",
+      "css": "rss",
+      "code": 60040,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "8a37a919574a45696d94022c5180267e",
+      "css": "satellite",
+      "code": 60044,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "19afed9d77b549d90101f8323e42c76a",
+      "css": "save",
+      "code": 60045,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "4d538a41fced0b1adbf9422bddc06aea",
+      "css": "shoe_prints",
+      "code": 60056,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b1c60caeccdc37eb388157dbaa932b6c",
+      "css": "shot_through_the_heart",
+      "code": 60057,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2b6206279a4dd84177fe8e72c8c70f68",
+      "css": "shovel",
+      "code": 60059,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "6bd608d1e6e6678fd12586418b37fc71",
+      "css": "sideswipe",
+      "code": 60062,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2bd232a10b7fb0d836ea520c6c384860",
+      "css": "site",
+      "code": 60063,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b72fb555f7d382911e02f42c99397da0",
+      "css": "skull_trophy",
+      "code": 60064,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "348c61256c98b062f1000f79933177cd",
+      "css": "skull",
+      "code": 60065,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "93cea6e32277754dc62cb35dc6a40a67",
+      "css": "spawn_node",
+      "code": 60075,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "a2215b43f273175e7773d8f943f6ed4d",
+      "css": "splash",
+      "code": 60085,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "73a167e8c45117301ddbc8ec6288226c",
+      "css": "targeted",
+      "code": 60101,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "363017754a3bde70edfae674a2990842",
+      "css": "tic_tac_toe",
+      "code": 60109,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1d056d267d8d25cdc2dcae57bccc13d3",
+      "css": "tooth",
+      "code": 60112,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "91ce80e0edba06593a5798fc8c0d61c5",
+      "css": "tower",
+      "code": 60114,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "f8bfccd532a87e5e665433a866841be3",
+      "css": "trail",
+      "code": 60115,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7fa2a7efe333c1c463d96b399472a5d3",
+      "css": "turd",
+      "code": 60120,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1331b3de0dd9e589ac1da9f381ae560b",
+      "css": "uncertainty",
+      "code": 60123,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "c20e82400e7ea5c61ba31e3ac4ec6d4c",
+      "css": "underhand",
+      "code": 60124,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2956b0f1cff35bb822311d5f64236945",
+      "css": "x_mark",
+      "code": 60140,
+      "src": "rpgawesome"
+    }
+  ]
+}

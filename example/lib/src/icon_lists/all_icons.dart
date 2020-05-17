@@ -6,11 +6,13 @@ import '../example_icon.dart';
 import 'iconic_icons.dart';
 import 'linecons_icons.dart';
 import 'mfg_labs_icons.dart';
+import 'octicons_icons.dart';
 import 'font_awesome_icons.dart';
 import 'entypo_icons.dart';
 import 'linearicons_free_icons.dart';
 import 'maki_icons.dart';
 import 'meteocons_icons.dart';
+import 'rpg_awesome_icons.dart';
 import 'brandico_icons.dart';
 import 'fontelico_icons.dart';
 import 'typicons_icons.dart';
@@ -23,11 +25,13 @@ final allIcons = <ExampleIcon>[]
   ..addAll(iconic_icons)
   ..addAll(linecons_icons)
   ..addAll(mfg_labs_icons)
+  ..addAll(octicons_icons)
   ..addAll(font_awesome_icons)
   ..addAll(entypo_icons)
   ..addAll(linearicons_free_icons)
   ..addAll(maki_icons)
   ..addAll(meteocons_icons)
+  ..addAll(rpg_awesome_icons)
   ..addAll(brandico_icons)
   ..addAll(fontelico_icons)
   ..addAll(typicons_icons)
