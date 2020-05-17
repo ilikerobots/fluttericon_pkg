@@ -14,7 +14,7 @@ The icon set included are:
   * Brandico
   * Elusive
   * Entypo
-  * Font Awesome
+  * Font Awesome (4 and 5)
   * Fontelico
   * Iconic
   * Linearicons Free

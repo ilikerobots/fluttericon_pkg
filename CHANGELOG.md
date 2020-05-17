@@ -13,3 +13,7 @@
 ## 1.0.6
 
 - License correction for rpgawesome
+
+## 1.0.7
+
+- Add fontawesome 5

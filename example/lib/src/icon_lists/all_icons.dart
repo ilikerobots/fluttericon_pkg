@@ -3,6 +3,7 @@ import '../example_icon.dart';
 
 // NB: DO NOT EDIT! This file is auto-generated. See util/gen_examples.dart
 
+import 'font_awesome5_icons.dart';
 import 'iconic_icons.dart';
 import 'linecons_icons.dart';
 import 'mfg_labs_icons.dart';
@@ -27,6 +28,7 @@ final allIcons = <ExampleIcon>[]
   ..addAll(mfg_labs_icons)
   ..addAll(octicons_icons)
   ..addAll(font_awesome_icons)
+  ..addAll(font_awesome5_icons)
   ..addAll(entypo_icons)
   ..addAll(linearicons_free_icons)
   ..addAll(maki_icons)
