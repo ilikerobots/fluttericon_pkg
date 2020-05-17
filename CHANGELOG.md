@@ -5,3 +5,11 @@
 ## 1.0.4
 
 - Add rpgawesome, opticons
+
+## 1.0.5
+
+- Readme upate
+
+## 1.0.6
+
+- License correction for rpgawesome

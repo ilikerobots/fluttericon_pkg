@@ -14,7 +14,7 @@
 ///
 /// * RPG Awesome, tbd
 ///         Author:    Daniela Howe & Ivan Montiel
-///         License:   BSD (https://github.com/nagoshiashumari/Rpg-Awesome/blob/master/LICENSE.md)
+///         License:   SIL (http://scripts.sil.org/OFL)
 ///         Homepage:  http://nagoshiashumari.github.io/Rpg-Awesome/
 ///
 import 'package:flutter/widgets.dart';
