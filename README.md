@@ -23,7 +23,7 @@ The icon set included are:
   * Meteocons
   * MfgLabs
   * ModernPictograms
-  * Opticons
+  * Octicons
   * RPGAwesome
   * Typicons
   * WebSymbols
