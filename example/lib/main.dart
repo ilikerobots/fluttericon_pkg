@@ -5,7 +5,6 @@
 import 'package:flutter/material.dart';
 import 'package:fluttericon/typicons_icons.dart';
 
-
 import 'package:fluttericon_example/src/icon_lists/all_icons.dart';
 
 void main() {
@@ -110,7 +109,7 @@ class FontAwesomeGalleryHomeState extends State<FontAwesomeGalleryHome> {
         IconButton(
             icon: Icon(Typicons.search),
             onPressed: () {
-              ModalRoute.of(context).addLocalHistoryEntry(
+              ModalRoute.of(context)?.addLocalHistoryEntry(
                 LocalHistoryEntry(
                   onRemove: () {
                     setState(() {

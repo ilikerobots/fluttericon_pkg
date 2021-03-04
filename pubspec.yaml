@@ -1,10 +1,10 @@
 name: fluttericon
 description: Flutter icons from popular web icon fonts. Customize your final icon package using fluttericon.com.
-version: 1.0.7
+version: 2.0.0
 homepage: https://github.com/ilikerobots/fluttericon_pkg
 
 environment:
-  sdk: '>=2.1.0 <3.0.0'
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
@@ -72,4 +72,4 @@ flutter:
 
 dev_dependencies:
   test: ^1.0.0
-  recase: 2.0.1
+  recase: ^4.0.0-nullsafety.0

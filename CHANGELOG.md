@@ -17,3 +17,7 @@
 ## 1.0.7
 
 - Add fontawesome 5
+
+## 2.0.0
+
+- Flutter 2, incl null safety
